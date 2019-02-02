@@ -7,7 +7,6 @@ script:
    - make epub
    - rm .gitignore # if not removed, built pages don't get pushed to gh-pages
    - mv _build/{html,singlehtml,epub} .
-   - rm README.md
 deploy:
    provider: pages
    skip-cleanup: true
