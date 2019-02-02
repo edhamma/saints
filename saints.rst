@@ -4960,7 +4960,7 @@ deep insight
 
 defilements of mind
    There are three basic defilements of the mind:
-   greed, hatred-aversion, and delusion-confusion­unknowing. There are
+   greed, hatred-aversion, and delusion-confusion-unknowing. There are
    innumerable individual defilements which are permutations and
    combinations of the basic three such as: fear, sloth, conceit, jealousy,
    paranoia and resentment. The root cause of defilements is craving, or a
