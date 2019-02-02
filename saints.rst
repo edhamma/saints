@@ -4984,7 +4984,7 @@ dharma
 Eight Fold Path
    The Buddha's basic teaching is the Eight Fold Path. It
    consists of eight things which if understood and done correctly will
-   lead to enlightenment They are: Right Understanding, Right Thought,
+   lead to enlightenment. They are: Right Understanding, Right Thought,
    Right Speech, Right Action, Right Livelihood, Right Effort, Right
    Mindfulness, Right Concentration. All of the Buddha's teachings are
    explanations and elaborations on these eight basic teachings.
