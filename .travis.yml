@@ -7,7 +7,7 @@ script:
    - make epub
    - rm .gitignore # if not removed, built pages don't get pushed to gh-pages
    - mv _build/{html,singlehtml,epub} . # enumerate all formats built here
-	- mv gh-pages-index.html index.html # setup redirection back to github
+   - mv gh-pages-index.html index.html # setup redirection back to github
 deploy:
    provider: pages
    skip-cleanup: true
