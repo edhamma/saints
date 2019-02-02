@@ -2,7 +2,47 @@
 William L. Hamilton: Saints & Psychopaths
 ############################################
 
+This file was build on |today|, rev. |version| / git |release| of `the source <https://github.com/eudoxos/saints>`__.
+
+Front 
+------
+
+.. only:: html and (not epub)
+
+   .. image:: _static/cover.jpg
+      :width: 30%
+
 *If you have a true saint for a teacher, then you have a real possibility for spiritual attainments, including enlightenment. 🙗 If your teacher is a psychopath, then you may become a programmed puppet, and you risk being sexually or financially abused. 🙗 You also maylo se your job, family and possibly even your sanity. Eventually you risk disillusionment from pursuing any spiritual quests. 🙗*
+
+----
+
+| Dharma Audio Network Associates
+| San Jacinto California 1995
+
+| Published by
+| DANA
+| P.O. Box 1527
+| Coupeville, WA 98239
+| Phone (800) 726-2421 
+| Copyright © 1995 
+
+Printed and bound in the United States of America. First edition All rights reserved.
+
+Reviewers, may quote passages in a review without permission in writing from the publisher.
+
+Although the author and publisher have researched all sources to ensure the accuracy and completeness of information contained in this book, we assume no responsibility for errors, inaccuracies, omissions or any other inconsistency herein. Any slights against people or organizations are unintentional. Readers should use their own judgment or consult a mental health professional when making specific evaluations of individuals.
+
+Cover design: Brian Moucka, Poppy Graphics, Santa Barbara California.
+
+ISBN: 0-9644904-0-4 
+
+**Organizations, Schools of Spiritual Development, and Meditation Centers**: Quantity discounts are offered for bulk purchases of this book for fund raising and educational purposes. Excerpts or special books can be created for special needs. For information contact Dharma Audio Network Associates, P.O. Box 1527, Coupeville WA 98239 or phone 800 726-2421 
+
+------
+
+   Dedicated to Binky who's support in many ways has made my work possible.
+
+------
 
 **Acknowledgements**
 
@@ -20,7 +60,8 @@ Other Books by William L. Hamilton:
 * *Synergetic Tool Primer*
 * *Dhammapada (translation)*
 
-**Back cover**
+Back cover
+-----------
 
 There are more psychopaths pretending to be saints than there are real saints. This book will provide you with some understanding of what a psychopath is, what a saint is and how to tell the difference. It is also a sharing of what Mr. Hamilton found in his own search for inner peace and ways to develop his unrealized potential. He provides a candid view of his experiences with a psychopathic teacher and a psychopathic wife which richly illustrate the type of behavior we should all watch out for.
 
@@ -29,7 +70,7 @@ This book is more than just a warning to watch out for false spiritual teachers.
 *Saints and Psychopaths* provides us with an inspiration as to the possibility we all have for spiritual development and self discovery. It is a highly recommended guide book for all spiritual seekers.
 
 .. figure:: _static/portrait.jpg
-   :width: 30%
+   :width: 20%
 
 *William L. Hamilton has been meditating since 1971 and has done more than seven years of intensive meditation practice in medita-tion centers and monasteries. He has studied under some of the greatest meditation masters in the world. He has been teaching Buddhist vipassana meditation since 1985.*
 
@@ -40,9 +81,10 @@ This book is more than just a warning to watch out for false spiritual teachers.
 
 **ISBN: 0-9644904-0-4**
 
+----
 
-
-**Contents**
+Contents
+--------
 
 .. toctree::
    :numbered:

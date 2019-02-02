@@ -28,7 +28,7 @@ version = '0.1'
 # The full version, including alpha/beta/rc tags
 try:
     import subprocess
-    release=subprocess.check_output(["git", "describe"]).strip()
+    release=subprocess.check_output(['git','rev-parse','--short','HEAD']).strip().decode('utf-8')
 except subprocess.CalledProcessError:
     release = '[built-outside-git]'
 
