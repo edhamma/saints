@@ -26,7 +26,11 @@ author = 'William L. Hamilton'
 # The short X.Y version
 version = '0.1'
 # The full version, including alpha/beta/rc tags
-release = ''
+try:
+    import subprocess
+    release=subprocess.check_output(["git", "describe"]).strip()
+except subprocess.CalledProcessError:
+    release = '[built-outside-git]'
 
 
 # -- General configuration ---------------------------------------------------
@@ -165,12 +169,12 @@ epub_publisher = 'Dharma Audio Network Associates'
 epub_copyright = copyright
 epub_cover = ('_static/cover.jpg','epub-cover.html')
 epub_language='en'
-epub_basename='hamilton-psychopaths-saints'
+epub_basename='hamilton-saints-psychopaths'
 epub_use_index=False
 epub_scheme='ISBN'
 epub_identifier = '0-9644904-0-4'
 # A unique identification for the text.
-epub_uid = 'hamilton-psychopaths-saints'
+epub_uid = 'hamilton-saints-psychopaths'
 
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html']
