@@ -74,7 +74,7 @@ This book is more than just a warning to watch out for false spiritual teachers.
 
 *William L. Hamilton has been meditating since 1971 and has done more than seven years of intensive meditation practice in medita-tion centers and monasteries. He has studied under some of the greatest meditation masters in the world. He has been teaching Buddhist vipassana meditation since 1985.*
 
-*In addition to teaching, he has founded audio cassette production facilities for several nonprofit organizations including the Hanuman Foundation, Insight Medi-tation Society, and Insight Recordings. He now spends most of his time writing, teaching and developing a meditation retreat center.*
+*In addition to teaching, he has founded audio cassette production facilities for several nonprofit organizations including the Hanuman Foundation, Insight Meditation Society, and Insight Recordings. He now spends most of his time writing, teaching and developing a meditation retreat center.*
 
 | DANA 
 | P.O. Box 1527 Coupeville, WA 98239 
