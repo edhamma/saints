@@ -5,6 +5,7 @@ script:
    - make html
    - make singlehtml
    - make epub
+   - rm .gitignore # if not removed, built pages don't get pushed to gh-pages
 deploy:
    provider: pages
    skip-cleanup: true
