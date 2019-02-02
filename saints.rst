@@ -912,7 +912,7 @@ time.
 |                                                       |                                                             |
 | Un-aggressive philosophy                              | Push philosophy aggressively                                |
 |                                                       |                                                             |
-| Attractive but not drawing •                          | Attractive and drawing                                      |
+| Attractive but not drawing                            | Attractive and drawing                                      |
 |                                                       |                                                             |
 | Waits for you to seek help                            | Comes on with unsolicited advice                            |
 |                                                       |                                                             |

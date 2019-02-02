@@ -90,5 +90,6 @@ Contents
    :numbered:
 
    saints.rst
+   checklist.rst
 
 
