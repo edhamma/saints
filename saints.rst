@@ -3831,27 +3831,17 @@ the time of the Buddha, people fail to recognize the enlightened around
 them because they have artificial expectations. The Buddha spoke of this
 in the Dhammapada:
 
-64
-^^
+| **64**
+| Fools may live all their lives
+| In the company of the enlightened
+| And still not see the dharma.
+| As a spoon does not taste soup.
 
-Fools may live all their lives
-
-In the company of the enlightened
-
-And still not see the dharma.
-
-As a spoon does not taste soup.
-
-65
-^^
-
-The wise may know the enlightened
-
-For only a moment
-
-And still see the dharma
-
-As the tongue tastes soup.
+| **65**
+| The wise may know the enlightened
+| For only a moment
+| And still see the dharma
+| As the tongue tastes soup.
 
 During the years that I was doing intensive practice at the Insight
 Meditation Society, I was surprised that a number of people thought that
@@ -4296,7 +4286,7 @@ thought.”
 
 Fortunately, Buddhist etiquette makes enlightenment a private, personal
 matter. I will be discussing this in greater detail in the chapter on
-*The Etiquette of Enlightenment.* Many teachers will not even directly
+*The Etiquette of Enlightenment*. Many teachers will not even directly
 discuss with their students whether or not they have attained
 enlightenment. However, it seems common all over the world that people
 who have done long periods of practice together, and have been
@@ -4427,7 +4417,7 @@ peaceful as you have never experienced before. It is truly a profound,
 wonderful state of mind. This is it! This must be the wonderful
 indescribable experience of *Nirvana!*
 
-Fortunately, this is not *Nirvana: Nirvana* is even better than this.
+Fortunately, this is not *Nirvana*: *Nirvana* is even better than this.
 Sometimes people hold on to this concentrated state of mind for the rest
 of the retreat. When they go home, and are confronted with the
 complexities of real life, this clear state of mind will shatter like a
@@ -4831,7 +4821,7 @@ Clues
 People who have spent long periods of time studying with a teacher are
 quite likely to have picked up various clues as to the level of
 attainment of the teacher. Most of these clues come from their teacher's
-talks when he/she illustrate\ :sup:`5`\ certain experiences in
+talks when he/she illustrates certain experiences in
 meditation with his/her own experiences. For example, one of my teachers
 said that when he was practicing with his teacher, he sat with the vow
 not to arise from his seat until his mind was free of all defilements.
@@ -4844,12 +4834,12 @@ that I asked him a question.
 
 If you are interested in determining the level of attainment of
 teachers, it would be impolite to ask them directly. However, you might
-take an opportunity to discretely' ask one of their senior students for
+take an opportunity to discretely ask one of their senior students for
 their opinion of the level of attainment of their teacher, and why they
 believe it. Remember that enlightenment is generally a delicate, private
 matter, and it is as sensitive as inquiring into someone's sex life. At
 the same time, the etiquette of enlightenment is a dynamic and changing
-situation, and it is possible to push the edge. Discreth conversations
+situation, and it is possible to push the edge. Discrete conversations
 with your peers and senior students of teachers are an excellent way to
 pick up clues.
 
@@ -4881,7 +4871,7 @@ copies of the **Checklist for Saints and Psychopaths** on the last
 pages of this book, and I suggest that you post them on a wall as a
 reminder, or give them to friends. Reviewing this list from time to time
 may save you and your friends a great deal of trouble in this time of
-change,
+change.
 
 I hope that the sharing of my personal spiritual journey will be of help
 to others on the path of spiritual development. I was not eager to
