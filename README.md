@@ -1,7 +1,7 @@
 # Saints & Psychopaths
 ## William L. Hamilton
 
-![cover](_static/cover.jpg)
+![cover](_static/cover.jpg | width=300)
 
 This repository is a collaborative effort to produce high-quality e-book of this great classic book.
 
