@@ -8,7 +8,6 @@ This repository is a collaborative effort to produce high-quality e-book of this
 The book is produced in several formats:
 
 * [HTML](https://eudoxos.github.io/saints/html/index.html)
-* [single HTML](https://eudoxos.github.io/saints/singlehtml/index.html)
 * [ePub](https://eudoxos.github.io/saints/epub/hamilton-saints-psychopaths.epub) (for e-book readers)
 
 ## How to help
