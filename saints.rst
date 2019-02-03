@@ -510,7 +510,7 @@ their guidance, but there is unlikely to be an initial urgent
 commitment. Psychopaths, on the other hand, are more likely to come on
 to you with an initial urgency, demanding that you make a commitment
 immediately or lose your opportunity. Therefore, my first advice about
-telling saints from psychopaths is to **take your lime.**
+telling saints from psychopaths is to **take your time.**
 
 Amoral or immoral?
 ~~~~~~~~~~~~~~~~~~
@@ -1008,7 +1008,7 @@ an opportunity for infinite mischief for a psychopath. A devotee should
 cultivate an attitude of total oneness, trust and obedience to a guru. A
 legitimate guru will use this attitude only to expedite the devotee's
 spiritual growth and will not use it for personal benefit. If you choose
-the path of devotion, xou should be able to distinguish between a saint
+the path of devotion, you should be able to distinguish between a saint
 and a psychopath.
 
 Buddhism and Hinduism
@@ -1205,7 +1205,7 @@ bleeding was from taking on the karma of their sin of doubt, and they
 were reminded what a great sacrifice she was making because of her love
 for them.
 
-Our teacher had enormous amounts if energy. On occasion we had marathon
+Our teacher had enormous amounts of energy. On occasion we had marathon
 classes which would last sixteen hours, and she would be full of divine
 energy when everyone else was ready to drop. We were told that she did
 not sleep, but there would be times that she would go into a deep state
@@ -1250,7 +1250,7 @@ classes. It didn't occur to me that the special attention that I was
 receiving was because I had a close association with Ram Dass. Our
 teacher was constantly pumping me for information to discover what Ram
 Dass was doing and saying. As time went on, it became apparent that
-there were various intrigues going on between the teacAer and Ram Dass
+there were various intrigues going on between the teacher and Ram Dass
 as gifts were returned and confidences were betrayed. The teacher and
 Ram Dass would deliberately give me conflicting instructions, and it was
 clear that they were both trying to get me to make a choice between
@@ -1290,8 +1290,8 @@ came from pills. Much of her supposed psychic information came from an
 intelligence network of her students.
 
 The reason that people who left The Teachings developed dislike for her
-within a month aftei leaving was that they would exchange information
-with the others whO left. People who remained in the teachings would
+within a month after leaving was that they would exchange information
+with the others who left. People who remained in the teachings would
 rationalize what they heard, or not hear what was being said to them. I
 too rationalized what I was being told, and the awareness I developed of
 this capacity for rationalization was one of the most valuable lessons I
@@ -2083,7 +2083,7 @@ has forged checks, but somehow managed to avoid jail; and I have heard
 several rumors that people have invested in her schemes and lost their
 money.
 
-In 1992 1 ran into Mukti at the Neem Karoli Baba Ashram in Taos, New
+In 1992 I ran into Mukti at the Neem Karoli Baba Ashram in Taos, New
 Mexico. She told me that the person I knew as Mukti was dead and that
 she was a new person. The only difference I could detect was that the
 old Mukti would have asked for a clean slate. True to form, I have heard
@@ -2810,7 +2810,7 @@ You look at it closer and find that it is not only moving, but that it
 is not even a solid line. It is actually composed of moving clumps. You
 examine the clumps closely and discover that the clumps are composed of
 even smaller clumps. You look at these clumps and find that these clumps
-are actually composed of even smaller dumps. You come dose to the wall
+are actually composed of even smaller dumps. You come close to the wall
 and find that the smaller clumps are made up of even smaller clumps. You
 come right up to the wall and examine it very closely and discover that
 the smallest clumps are actually groups of ants moving together.
@@ -3409,9 +3409,9 @@ your teacher. One of my friends, who had done many years of intensive
 also doing a mantra along with the regular practice. As soon as she
 stopped doing the mantra she began to make progress. A slight
 modification to the instructions that makes the practice more pleasant
-or easier is very likely to sabotage it
+or easier is very likely to sabotage it.
 
-. The most common variation on meditation instructions is to
+The most common variation on meditation instructions is to
 deliberately indulge in psychotherapy. After the mind becomes calm and a
 little concentrated from following the instructions, all sorts of
 psychological insights may occur. Memories from childhood may start
@@ -3427,7 +3427,7 @@ enlightenment His reply was that, "Westerners are doing psychotherapy."
 
 Another variation on meditation instruction is to indulge in daydreams.
 After the mind becomes calm and concentrated from doing a little
-practice, images in the mind may become dear and colorful. It is
+practice, images in the mind may become clear and colorful. It is
 pleasant for the mind to wander into pleasurable daydreams. Daydreams
 occur naturally from time to time in the practice, but they should not
 be cultivated.
@@ -4304,7 +4304,7 @@ their friends, or even spouses, based on enlightenment. The Buddha spoke
 of the enlightened as having a high status, and he urged both
 enlightened and unenlightened to hang out with the enlightened. There is
 wisdom in this advice, but the enlightened do not seem to have a
-particular inclination for it Anyone who wants to attain enlightenment
+particular inclination for it. Anyone who wants to attain enlightenment
 with the goal of achieving some social status, other than being a
 teacher, is pursuing an illusion.
 
