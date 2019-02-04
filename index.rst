@@ -2,7 +2,11 @@
 William L. Hamilton: Saints & Psychopaths
 ############################################
 
-This file was build on |today|, rev. |version| / git |release| of `the source <https://github.com/eudoxos/saints>`__.
+.. note::
+
+   This e-book is a community effort. If you spot an error in the text (such as misspelled word) and have the skill, go to https://github.com/eudoxos/saints and fix it. Thanks!
+   
+   This file was build on |today|, rev. |version| / git |release| from `the source <https://github.com/eudoxos/saints>`__.
 
 Front 
 ------
