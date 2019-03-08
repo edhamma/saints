@@ -1555,7 +1555,7 @@ people.
 It soon became apparent to the teachers that Mukti and I were having
 major problems sticking to the rules of the retreat. Jack Kornfield had
 us in almost every day, together or individually, to discuss our
-problems, but after three weeks of frying to settle into the retreat,
+problems, but after three weeks of trying to settle into the retreat,
 the incident in the dining room was the last straw. Despite her talent,
 beauty and being in line to inherit a hundred million dollars, I wanted
 to end the relationship.
