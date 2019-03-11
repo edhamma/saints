@@ -1406,7 +1406,7 @@ spiritual name which means Goddess Who Sells Enlightenment.
 Mukti came into my life in the summer of 1977. At that time I was living
 by the yacht harbor in Santa Cruz, California. I had an income of
 $25,000 to $35,000 a year from investments and was managing the Hanuman
-Foundation Tape Library as an unpaid volunteer, distributing Ram DaA
+Foundation Tape Library as an unpaid volunteer, distributing Ram Dass
 tape recordings. Mukti, had been traveling with a friend of mine until
 they had decided to go their separate ways, happened to be staying
 nearby, so when I heard that there was going to be a gathering of
@@ -1576,7 +1576,7 @@ been aware. She told me that our experience and the meditation practice
 had resulted in her making a complete transformation, and that she
 wanted a clean slate and a fresh start on a new relationship. She had
 been married four times already and now she felt that she had found a
-relationship that might really work She painted a vision of what
+relationship that might really work. She painted a vision of what
 wonderful things we could do with her money, then she said that it was
 difficult for her to meditate until we could resolve our relationship.
 It was becoming difficult for me, too, so the next day we left the
@@ -1625,7 +1625,7 @@ With assurance from my teacher that it was my spiritual work, I no
 longer hesitated to get married. We quickly found a judge to marry us,
 and that quieted Mother's plans for our marriage ceremony. Then, when it
 was clear that Mother had settled down and was making a good recovery,
-we resumed our trip around the world,
+we resumed our trip around the world.
 
 India
 ~~~~~
@@ -1667,7 +1667,7 @@ I had not harmed her, but she continued to insist that I had been
 beating her. The staff finally left after they were satisfied that, at
 least, I was not beating her then. It was especially embarrassing for me
 considering my relationship with Ram Dass and the American devotees of
-Maharajji,
+Maharajji.
 
 Another clean slate
 ~~~~~~~~~~~~~~~~~~~
@@ -1752,7 +1752,7 @@ opportunity to visit the gurus when we went on buying trips.
 
 We decided that the best item to import would be hand made silk rugs. I
 had a good location for a rug business near the River Oaks section of
-Houston, and Mukti. knew many rich people all over the world. Mukti
+Houston, and Mukti knew many rich people all over the world. Mukti
 would be the sales force, and we were confident that she would do well
 selling investment quality silk rugs, so we abandoned the calculator
 business and set out for a buying trip to India.
@@ -1814,7 +1814,7 @@ and return immediately, but she continued to beg me to come to India to
 be with her, and then ended the call, saying that she was too ill to
 continue. That was the last I heard from her for a few months.
 
-Reports front India
+Reports from India
 ~~~~~~~~~~~~~~~~~~~
 
 Then the reports from India started to come in. Ram Dass' letter was the
@@ -1991,7 +1991,7 @@ credit card because I never actually received it The charges on the
 American Express card were only a civil matter involving a bad debt, but
 the use of a stolen card constitutes theft, a felony. Meanwhile,
 American Express would not issue me a new card, and that blew my last
-good line of credit
+good line of credit.
 
 The divorce settlement
 ~~~~~~~~~~~~~~~~~~~~~~
