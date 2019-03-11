@@ -494,7 +494,7 @@ Psychopaths can develop *paranoid samadhi*, which is a concentrated
 mind, because they have done so many unskillful things such as lying,
 theft, injury, adultery, substance abuse, etc. Their powers come from
 having to have a very sensitive awareness to perceive when someone is
-corning after them. They are also gluttons for attention, and when they
+coming after them. They are also gluttons for attention, and when they
 have your attention they will start to feed on your spiritual energies
 like a psychic vampire. They can sometimes read minds, tell the future,
 do healings, see things which aren't physically apparent and you may
@@ -1191,7 +1191,7 @@ of the Divine Mother is frightening, the way a mother who loves her
 children frightens them with punishment if they misbehaved, Kali has
 black hair, black skin, and blood dripping from her mouth. She cuts off
 the heads of sinful beings and wears their heads in a necklace around
-her neck Kali banishes sin and impurity from her children. Only the
+her neck. Kali banishes sin and impurity from her children. Only the
 spiritually pure are safe from the wrath of Kali.
 
 Our teacher had long jet black hair, and it sometimes seemed that her
@@ -1242,7 +1242,7 @@ but after he left many more began to leave. I noticed that for a while
 after people left they maintained a respect for our teacher, but about a
 month after they left they developed a strong dislike for both The
 Teachings and the teacher. It was a puzzle that took me a few months to
-figure out,
+figure out.
 
 The departing students left vacancies in the advanced classes, and
 suddenly I found myself promoted to all of the most advanced secret
