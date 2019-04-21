@@ -318,7 +318,7 @@ Buddhist tradition, and when I describe details of a saint's evolution I
 use the Buddhist model. A couple of the people who read earlier drafts
 of this book completely missed the point that when I discuss the process
 of evolution in the meditation practice, I am describing the Buddhist
-view of the evolution of a saint Many people who are qualified to judge
+view of the evolution of a saint. Many people who are qualified to judge
 the relationship between Buddhism and Christianity have concluded that
 there is an essential relationship between enlightenment and saints.
 
@@ -432,7 +432,7 @@ stress builds, they feel that everyone and everything is the source of
 their suffering. They reach a breaking point and make a conscious
 decision to get even with the world. From that point on they feel that
 any harm they cause others is justified revenge. They become juvenile
-delinquents, and by the lime they become young adults their pattern of
+delinquents, and by the time they become young adults their pattern of
 behavior becomes so deeply rooted that they are virtually incurable.
 
 There are two general types of psychopaths. One type is overtly violent,
@@ -614,7 +614,7 @@ psychopath will respond in this sequence:
 
 1) Ignore the issue.
 2) Deny that they have done something wrong.
-3) Attack the accuser, usually accusing the accuser o'f being the one
+3) Attack the accuser, usually accusing the accuser of being the one
    who has done wrong.
 4) Threaten to harm the accuser, someone else, something, or self.
 5) Apologize and admit that they have done wrong, then ask for a clean
@@ -645,7 +645,7 @@ taken in by their pretense. Judges have suspended sentences of repeat
 bigamists and outrageous con artists who swore to devote the rest of
 their lives to making restitution.
 
-"Give me a dean slate is the refrain of psychopaths. They will proclaim
+"Give me a clean slate", is the refrain of psychopaths. They will proclaim
 that they are a new person or that they have been born again. Sometimes
 they insist that they should not be punished because the person who did
 those things no longer exists. Indeed they may make drastic changes in
@@ -671,7 +671,7 @@ legislators should be aware of this when they pass laws. Laws which
 motivate normal people to avoid crime may result in psychopaths
 committing more crime. Psychopaths are essentially self-destructive and
 so to threaten psychopaths with destruction if they break a law only
-increases their motivation, All too often our system of punishment
+increases their motivation. All too often our system of punishment
 results in sending psychopaths to prison which becomes a school for
 learning psychopathic tricks. Associations made in prison result in the
 establishment of a more dangerous network of psychopaths in society
@@ -5210,5 +5210,6 @@ Zen
    great importance on acquiring more of the Buddha's discourses and
    rewarded people who acquired them. Some of the books of discourses
    acquired have similar titles but different contents than older versions.
+
 
 
