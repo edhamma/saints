@@ -1359,32 +1359,32 @@ the objective of enlightenment. The Buddha encouraged the attitude that
 teachers are guides who are familiar with a path. The guides do not make
 the journey for us, but only advise us. From *The Dhammapada:*
 
-273
-The best one is one who sees:
-The best of paths is The Eightfold Path. 
-The best of truths 
-The Four Noble Truths.
-Transcendence is 
-The best of states.
+| **273**
+| The best one is one who sees:
+| The best of paths is The Eightfold Path. 
+| The best of truths 
+| The Four Noble Truths.
+| Transcendence is 
+| The best of states.
 
-274
-This is the best way 
-There is none better
-To the purifying insight. 
-Follow This Path
-It puts an end to temptation.
+| **274**
+| This is the best way 
+| There is none better
+| To the purifying insight. 
+| Follow This Path
+| It puts an end to temptation.
 
-275
-Enter upon The Path
-Which leads to the end of pain. 
-Having learned to end mine
-I have shown you The Way.
+| **275**
+| Enter upon The Path
+| Which leads to the end of pain. 
+| Having learned to end mine
+| I have shown you The Way.
 
-276
-You must do the work
-Buddhas are only guides
-Meditators who follow This Path 
-Transcend the bonds of temptation.
+| **276**
+| You must do the work
+| Buddhas are only guides
+| Meditators who follow This Path 
+| Transcend the bonds of temptation.
 
 Mukti
 -----
