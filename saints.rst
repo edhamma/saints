@@ -318,7 +318,7 @@ Buddhist tradition, and when I describe details of a saint's evolution I
 use the Buddhist model. A couple of the people who read earlier drafts
 of this book completely missed the point that when I discuss the process
 of evolution in the meditation practice, I am describing the Buddhist
-view of the evolution of a saint Many people who are qualified to judge
+view of the evolution of a saint. Many people who are qualified to judge
 the relationship between Buddhism and Christianity have concluded that
 there is an essential relationship between enlightenment and saints.
 
@@ -432,7 +432,7 @@ stress builds, they feel that everyone and everything is the source of
 their suffering. They reach a breaking point and make a conscious
 decision to get even with the world. From that point on they feel that
 any harm they cause others is justified revenge. They become juvenile
-delinquents, and by the lime they become young adults their pattern of
+delinquents, and by the time they become young adults their pattern of
 behavior becomes so deeply rooted that they are virtually incurable.
 
 There are two general types of psychopaths. One type is overtly violent,
@@ -614,7 +614,7 @@ psychopath will respond in this sequence:
 
 1) Ignore the issue.
 2) Deny that they have done something wrong.
-3) Attack the accuser, usually accusing the accuser o'f being the one
+3) Attack the accuser, usually accusing the accuser of being the one
    who has done wrong.
 4) Threaten to harm the accuser, someone else, something, or self.
 5) Apologize and admit that they have done wrong, then ask for a clean
@@ -645,7 +645,7 @@ taken in by their pretense. Judges have suspended sentences of repeat
 bigamists and outrageous con artists who swore to devote the rest of
 their lives to making restitution.
 
-"Give me a dean slate is the refrain of psychopaths. They will proclaim
+"Give me a clean slate", is the refrain of psychopaths. They will proclaim
 that they are a new person or that they have been born again. Sometimes
 they insist that they should not be punished because the person who did
 those things no longer exists. Indeed they may make drastic changes in
@@ -671,7 +671,7 @@ legislators should be aware of this when they pass laws. Laws which
 motivate normal people to avoid crime may result in psychopaths
 committing more crime. Psychopaths are essentially self-destructive and
 so to threaten psychopaths with destruction if they break a law only
-increases their motivation, All too often our system of punishment
+increases their motivation. All too often our system of punishment
 results in sending psychopaths to prison which becomes a school for
 learning psychopathic tricks. Associations made in prison result in the
 establishment of a more dangerous network of psychopaths in society
@@ -701,8 +701,8 @@ helping them rehabilitate themselves or recover from an accident.
 Motivating with guilt
 ~~~~~~~~~~~~~~~~~~~~~
 
-Another sign to watch for is that psychopaths tend to 'motivate you with
-guilt. Anything you do wrong becomes a lever for manipulating you, This
+Another sign to watch for is that psychopaths tend to motivate you with
+guilt. Anything you do wrong becomes a lever for manipulating you. This
 is particularly true if you break, or threaten to break a promise, even
 though they usually have poor records in keeping promises.
 
@@ -710,7 +710,7 @@ Anxiety attacks
 ~~~~~~~~~~~~~~~
 
 There is one sign of a psychopath that usually only a close associate
-will have an opportunity to see, From time to time a psychopath will
+will have an opportunity to see. From time to time a psychopath will
 have anxiety attacks. They hide alone, or with someone totally under
 their control, when they become panicked about their health, fear of
 being arrested, assassinated, or attacked by devils, spirits, etc.
@@ -794,7 +794,7 @@ They, themselves are usually not morally defective, but they have
 accepted the artificial reality that the psychopaths have created, and
 they believe that the psychopaths' behavior is acceptable because of
 their divinity, illness, abused childhood, enlightenment, etc. They have
-been programmed by the psychopath to lie, cheat; steal, or even murder.
+been programmed by the psychopath to lie, cheat, steal, or even murder.
 It is usually the disparity between their own inner sense of morality
 and the rationalized, programmed morality of the psychopath that causes
 them to break away. Frequently the self destructive nature of
@@ -825,7 +825,7 @@ of co-alcoholics and abused spouses. Even when co-psychopaths are
 successful in breaking away, there are prolonged periods during which
 they gradually realize the extent of the artificial reality that they
 adopted. Some never figure out what happened, other than realizing that
-the relationship was unwholesome for them, Co-psychopaths may need
+the relationship was unwholesome for them. Co-psychopaths may need
 psychotherapy and support groups to overcome the inner conflicts they
 experience. Their chances for recovery are very good. It is highly
 recommended that co-psychopaths seek relationships with people or groups
@@ -1095,7 +1095,7 @@ spiritual practices I had done, where I lived and my relationship to Ram
 Dass. It was made clear in the interview that I wasn't quite up to the
 high standards of spiritual development that was required for her
 students, but it was implied that I had some potential if I worked
-hard.,At the end of the interview she told to see Hilda Charlton who
+hard. At the end of the interview she told to see Hilda Charlton who
 would assign me special practices to, as she said, "Clean me up."
 
 Hilda Charlton was a devotee of Nityananda, who was one of the most
@@ -1115,7 +1115,7 @@ vegetarian, to meditate, to do breathing exercises, and pray to the
 Virgin Mary every day to relieve my sins. She told me to return to
 Colorado and do these practices for three months before returning to New
 York. I then went to Ram Dass who told me that I could attend secret
-Tuesday night classes that the teacher had told him to conduct
+Tuesday night classes that the teacher had told him to conduct.
 
 From Boulder to New York
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1154,7 +1154,7 @@ been assigned had paid off, and that I did not have to wait the three
 months that Hilda had mentioned. The Wednesday class was packed like
 sardines. We all sat on the floor, knee to knee, for about 3 hours
 without getting up. The teacher knew each of us by name, and during the
-class she had a brief interchange with everyone in the room, I was quite
+class she had a brief interchange with everyone in the room. I was quite
 impressed with how appropriate her questions to me were ond how accurate
 her observations were. Wednesday was the day set aside for new students
 and visitors. On occasion she would exorcise a devil, or do a healing
@@ -1359,38 +1359,32 @@ the objective of enlightenment. The Buddha encouraged the attitude that
 teachers are guides who are familiar with a path. The guides do not make
 the journey for us, but only advise us. From *The Dhammapada:*
 
-273
+| **273**
+| The best one is one who sees:
+| The best of paths is The Eightfold Path. 
+| The best of truths 
+| The Four Noble Truths.
+| Transcendence is 
+| The best of states.
 
-The best one is one who sees:
+| **274**
+| This is the best way 
+| There is none better
+| To the purifying insight. 
+| Follow This Path
+| It puts an end to temptation.
 
-The best of paths is The Eightfold Path. The best of truths The Four
-Noble Truths.
+| **275**
+| Enter upon The Path
+| Which leads to the end of pain. 
+| Having learned to end mine
+| I have shown you The Way.
 
-Transcendence is The best of states.
-
-274
-
-This is the best way There is none better
-
-To the purifying insight. Follow This Path
-
-It puts an end to temptation.
-
-275
-
-Enter upon The Path
-
-Which leads to the end of pain. Having learned to end mine
-
-I have shown you The Way.
-
-276
-
-You must do the work
-
-Buddhas are only guides
-
-Meditators who follow This Path Transcend the bonds of temptation.
+| **276**
+| You must do the work
+| Buddhas are only guides
+| Meditators who follow This Path 
+| Transcend the bonds of temptation.
 
 Mukti
 -----
@@ -1501,7 +1495,7 @@ business to operate in my absence anyway, and after a couple of weeks of
 effort, I finally managed to do so.
 
 During the next two years we traveled around the world twice. Mukti
-convinced me that traveling to Indlia was more important than being
+convinced me that traveling to India was more important than being
 available if my mother had a serious stroke. Mukti had a thick address
 book of names of wealthy devotees she had met while visiting various
 gurus, and she was a master at using her association with the gurus as a
@@ -1928,7 +1922,7 @@ million-dollar house in Carmel.
 We agreed to a divorce and a settlement Mukti agreed to pay me $150,000,
 which represented fifty percent of the decline of my net worth while we
 were married, and she also agreed to pay the $150,000 in charges
-remaining on my American Express account The settlement was to be paid
+remaining on my American Express account. The settlement was to be paid
 on September 1, 1980, shortly before I was to start my long-delayed
 three-month retreat at the Insight Meditation Society.
 
@@ -1944,7 +1938,7 @@ claim to them. I was amazed at how frequently she would say this.
 I had been vaguely aware that Mukti would pick up some merchandise from
 stores and be in too much of a hurry to pay. Occasionally I would say
 something to her about it and she would invariably reply, "God told me
-to take it" What appalled me was not only how frequently she said "I
+to take it. What appalled me was not only how frequently she said "I
 stole that," but that some items were from homes where we had stayed as
 house guests. That was a sobering insight into how the mind of a
 co-psychopath can rationalize and not see things that should have been
@@ -2100,8 +2094,8 @@ husbands was a guru, with a substantial following in the United States.
 When Mukti came into contact with followers of that tradition, they
 treated her with awe.
 
-One of the techniques of this tradition was to be able to • give
-*shaktipat*. *Shaktipat is a psychic energy a guru can administer which
+One of the techniques of this tradition was to be able to give
+*shaktipat*. *Shaktipat* is a psychic energy a guru can administer which
 has a profound effect on the recipient. *Shaktipat* can be
 administered directly by a touch, or remotely in a large room, or even
 in another country when the recipient is meditating. There are a variety
@@ -2149,7 +2143,7 @@ Mukti frequently received messages from God. Sometimes the messages were
 dubious, and at other times they seemed profoundly right and
 appropriate. I never was convinced that they were indeed messages from
 God, but while we were together I never entirely dismissed them as
-fraudulent I mentally filed those messages under the category of *Maybe*,
+fraudulent. I mentally filed those messages under the category of *Maybe*,
 but they tended to manifest a self-serving pattern from Mukti's
 viewpoint.
 
