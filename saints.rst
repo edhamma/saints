@@ -4222,8 +4222,6 @@ that they believe erroneous facts. It seems reasonable to me that if an
 Arahant can make a mistake because of incorrect information, then a
 Buddha could too. This is contrary to traditional Buddhist belief.
 
-****
-
 The Scientific method and Buddhism
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
