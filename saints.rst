@@ -2694,7 +2694,7 @@ meditation the Buddha advocated. The Buddha was specifically against the
 idea that the ritual breaking of the father's skull on the funeral pyre
 by the eldest son would release the *atta* and the father would attain
 enlightenment, despite any sins. The Buddha likened this to expecting
-rocks in a day pot on the bottom of a pool of water, to float to the
+rocks in a clay pot on the bottom of a pool of water, to float to the
 surface if the pot were broken.
 
 Wave Theory vs Particle Theory
@@ -4265,7 +4265,7 @@ because they are status conscious achievers.
 
 Even in the time of the Buddha, there were great variations in the
 amount of time that it took people to attain enlightenment The
-charioteer who took the Buddha­to-be on his first trips into the world,
+charioteer who took the Buddha-to-be on his first trips into the world,
 later became one of the Buddha's monks. However, he did not attain even
 the first level of enlightenment until after the Buddha died. The Buddha
 taught for 45 years, and the charioteer had the Buddha for a teacher.
