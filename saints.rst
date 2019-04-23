@@ -2234,7 +2234,7 @@ enlightenment, and this does not seem to be true.
 All major religious traditions have some saints, prophets, founders, or
 authorities who seem to have been enlightened. Most religions have some
 literature which touches on this subject, but the Buddhists, by far,
-have the best technical understanding of enlightenment. They not Only
+have the best technical understanding of enlightenment. They not only
 have a clear systematic analysis of what enlightenment is, but also they
 have a comprehensive system for attaining it that works. At the same
 time, understanding the views of other traditions gives a richer
@@ -2276,7 +2276,7 @@ Points of Agreement that they have been refining over the years:
    ultimate realty it is subject to ignorance, illusion, weakness and
    suffering.
 7. Disciplined practice is essential to the spiritual journey, yet
-   spiritual attainment is not the result of one's effort but. the
+   spiritual attainment is not the result of one's effort but the
    experience of oneness with ultimate reality.
 
 Contemplatives and enlightenment
@@ -2305,7 +2305,7 @@ within particular traditions using identical techniques, the objective
 experience individuals have vary greatly. For example, at a particular
 stage of development some people have visions, and others using the same
 method do not. Despite the wide variety of objective experiences that
-People report, teachers with extensive experience can identify the
+people report, teachers with extensive experience can identify the
 essential common denominators. Regardless of the tradition, method and
 individual experience, the result of enlightenment, in terms of wisdom
 and relief from personal suffering, are identical. The wisdom and
@@ -2615,7 +2615,7 @@ Stream-winner
 
 Stream-winner is the first level of enlightenment. I have never been
 satisfied by any of the descriptions of what changes occur as a result
-of attaining it I doubt that I ever will because it is sort of like
+of attaining it. I doubt that I ever will because it is sort of like
 describing shifts in shades of grey. Also there is a wide variation in
 changes from individual to individual as the result of attaining any
 level of enlightenment. This makes clear definitive statements very
@@ -2676,7 +2676,7 @@ involve subjective evaluations of the tester.
 
 The Buddha had a negative attitude toward the Hindu belief in *atta*.
 Westerners may believe in a soul, but it is a very fuzzy and poorly
-defined concept compared to the Hindu concept The Hindu concept is that
+defined concept compared to the Hindu concept. The Hindu concept is that
 the core of your consciousness is an unchanging, unalterable object
 which seems separated from the consciousness of God. The *atta* cannot
 be affected by fire or cold, cut by a knife, smashed by a rock, shocked
@@ -2712,7 +2712,7 @@ be measured at the same time. This advice would serve meditators well,
 in that they should never try to mix *atta* theories with Buddhist
 practices that emphasize viewing objects as being particles.
 
-I think it improves the Buddhist concept to understand the Hindu concept
+I think it improves the Buddhist concept to understand the Hindu concept.
 The analogy that I use comes from an experience that I had during my
 two-year retreat in Hawaii. My retreat camp was located at the
 three-thousand foot level on Mt. Haleakala, and I had a vast view of the
@@ -2879,7 +2879,7 @@ teaching is in a context that you are comfortable with.
 Although a more enlightened teacher is generally a better teacher, it is
 possible that a Western Stream-winner who thinks and speaks in your
 language might be a better teacher for you than an Arahant who does not.
-However, you, would be well advised to make the effort to transcend the
+However, you would be well advised to make the effort to transcend the
 difficulties of culture and translation, and take advantage of working
 with an Arahant if you have the opportunity.
 
@@ -3620,7 +3620,7 @@ effect on the practice.
 Despite these advantages some Westerners get enlightened quickly, and
 some Asians take a long time. Your situation is your situation, and
 there is no benefit in comparing yourself to anyone else. All you need
-to do is to follow the,instructions diligently and cultivate a profound
+to do is to follow the instructions diligently and cultivate a profound
 examination of the present moment.
 
 Sitting on the floor
@@ -3797,7 +3797,7 @@ Arbitrary models
 One of the things that can contribute to excessive doubt is failing to
 see that there are people who have been successful in becoming
 enlightened. There have been many successes, not only in the time of the
-Buddha and Asia, but in the present, here in the West Usually, people
+Buddha and Asia, but in the present, here in the West. Usually, people
 fail to see this because they cling to false models of enlightenment.
 
 Misunderstandings about what the enlightened can and cannot do, or
@@ -3890,7 +3890,7 @@ She very quickly was able to master and demonstrate all of them.
 Dipa Ma was following the instructions of her teacher to develop psychic
 powers, but she thought that it was not appropriate to make use of them.
 The manifestation of psychic powers can very easily take on the air of a
-circus performance, and the importance of enlightenment can get lost
+circus performance, and the importance of enlightenment can get lost.
 After mastering all of the powers, she renounced all of them except the
 power of *metta. Metta* is the development of a profound feeling of
 unconditional love. One of the reasons that Dipa Ma was such an
@@ -4184,7 +4184,7 @@ also believed that this decline will continue in the future when things
 will get worse until eventually a new Golden Age will come.
 
 Traditional Asian scholars will give the highest authority to the oldest
-books. As it was in the West during the middle ages, a statement in, an
+books. As it was in the West during the middle ages, a statement in an
 ancient book is given higher authority than empirical observations. The
 scientific method is now entering Asian culture, but it has not yet
 affected traditional scholarship. Statements in the Buddhist
@@ -4216,7 +4216,7 @@ incorrect information. One Arahant instructed his followers to build a
 huge pagoda in California which was far beyond their financial
 resources. Another Arahant said that the reason there were commercials
 in the middle of movies on TV was that people were unable to concentrate
-so long without a break To me, it is more important that Arahants are
+so long without a break. To me, it is more important that Arahants are
 able to change their minds when presented with correct information, than
 that they believe erroneous facts. It seems reasonable to me that if an
 Arahant can make a mistake because of incorrect information, then a
@@ -4376,7 +4376,7 @@ appropriate to compare yourself to others. Some people are going to be
 fast, and other people are going to be slow. You are going to be
 whatever you are going to be, and it is not a race. Enlightenment is a
 noncompetitive activity, and it is possible for everyone to win. One of
-my favorite quotes from Munindra is, The Buddha's enlightenment solved
+my favorite quotes from Munindra is, "The Buddha's enlightenment solved
 his problem. You must solve your problem." How long it takes someone
 else has no relevance to how long it will take you.
 
@@ -4400,7 +4400,7 @@ experiences is when a meditator first experiences a very calm
 concentrated mind. It is said that the first three insights a meditator
 has are: 1) The mind is in a state of turmoil; 2) It seems impossible to
 stop or control this turmoil; 3) It has always been this way and we did
-not know it After these insights have been experienced, it is possible
+not know it. After these insights have been experienced, it is possible
 that deep concentration can develop. The mind becomes very clear,
 powerful and objects can be seen vividly. You can look at a tree and see
 it as you never have before. Instead of seeing the tree through a fog of
@@ -4526,12 +4526,12 @@ They do not know
 I have discussed the confusion which may arise as to whether or not
 enlightenment has been attained as certain experiences in the practice
 occur. Some people will decide that they are enlightened when they are
-not, Others will not be able to decide whether or not they are
+not. Others will not be able to decide whether or not they are
 enlightened. This inability to decide can sometimes continue even after
 enlightenment has been attained.
 
 Usually this occurs in situations where teachers do not want to openly
-discuss with their students their level of attainment, The primary
+discuss with their students their level of attainment. The primary
 reason for this is the general trend to regard enlightenment as a
 personal and private matter even between student and teacher. Some
 teachers may not be absolutely sure of exactly what level of attainment
@@ -4656,7 +4656,7 @@ because they expect that someone who has done many years of practice
 must be either enlightened or very enlightened. The opposite situation
 can be true if they assume someone is not enlightened because they have
 done very little meditation practice. As I indicated before, there is a
-wide variation on how rapidly 'people progress in the practice. The
+wide variation on how rapidly people progress in the practice. The
 Buddha suggested that we could look for the results of being an Arahant
 or a Non-returner when someone has done between seven days and seven
 years of practice. In the time of the Buddha, there were cases of people
