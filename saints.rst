@@ -2226,7 +2226,7 @@ people that their prayers to saints are received by angels in heaven who
 can intercede on their behalf. The bases for canonization
 (certification) include such things as three verified miracles and
 review by church scholars, etc., but the standard does not include
-enlightenment Certainly it seems that some canonized Catholic saints are
+enlightenment. Certainly it seems that some canonized Catholic saints are
 enlightened, but there is no guarantee that all are. On the other hand,
 traditional Buddhists regard Buddhism as having a monopoly on
 enlightenment, and this does not seem to be true.
@@ -2234,7 +2234,7 @@ enlightenment, and this does not seem to be true.
 All major religious traditions have some saints, prophets, founders, or
 authorities who seem to have been enlightened. Most religions have some
 literature which touches on this subject, but the Buddhists, by far,
-have the best technical understanding of enlightenment. They not Only
+have the best technical understanding of enlightenment. They not only
 have a clear systematic analysis of what enlightenment is, but also they
 have a comprehensive system for attaining it that works. At the same
 time, understanding the views of other traditions gives a richer
@@ -2255,7 +2255,7 @@ practice of that tradition as a part of the meetings. The purpose of the
 meetings was to establish what common understandings they had achieved
 as a result of their diverse practices. The group has become known as
 the Snowmass Contemplative Group because the first of these meetings was
-held in the Trappist monastery in Snowmass,. Colorado.
+held in the Trappist monastery in Snowmass, Colorado.
 
 When scholars from different religious traditions meet, they argue
 endlessly about their different beliefs. When contemplatives from
@@ -2276,7 +2276,7 @@ Points of Agreement that they have been refining over the years:
    ultimate realty it is subject to ignorance, illusion, weakness and
    suffering.
 7. Disciplined practice is essential to the spiritual journey, yet
-   spiritual attainment is not the result of one's effort but. the
+   spiritual attainment is not the result of one's effort but the
    experience of oneness with ultimate reality.
 
 Contemplatives and enlightenment
@@ -2285,8 +2285,8 @@ Contemplatives and enlightenment
 Contemplatives from different traditions generally agree that there is a
 transforming experience they agree to call enlightenment. They agree
 that enlightenment is attained as a result of controlling the mind with
-various forms of practice. Usually these forms of practice are done in e
-simplified protected environment where practitioners arE freed from
+various forms of practice. Usually these forms of practice are done in a
+simplified protected environment where practitioners are freed from
 worldly concerns to direct their attention inward. The practices may
 involve body motions or body sensations, sight or focusing the vision on
 particular objects, an awareness of certain outer or inner sounds,
@@ -2305,7 +2305,7 @@ within particular traditions using identical techniques, the objective
 experience individuals have vary greatly. For example, at a particular
 stage of development some people have visions, and others using the same
 method do not. Despite the wide variety of objective experiences that
-People report, teachers with extensive experience can identify the
+people report, teachers with extensive experience can identify the
 essential common denominators. Regardless of the tradition, method and
 individual experience, the result of enlightenment, in terms of wisdom
 and relief from personal suffering, are identical. The wisdom and
@@ -2326,10 +2326,10 @@ screen for observing the fundamental processes of consciousness.
 
 Research done by Dr. Daniel Brown and Dr. Jack Engler of Harvard
 University gives us an understanding of one of the factors involved in
-enlightenment Their work is reported in the book *Transformations of
+enlightenment. Their work is reported in the book *Transformations of
 Consciousness* by Wilber, Engler, & Brown. Brown and Engler did
 scientific studies of psychological characteristics before and after
-enlightenment Part of their studies involved changes in perceptual
+enlightenment. Part of their studies involved changes in perceptual
 thresholds as a result of *vipassana* meditation. *Vipassana*
 meditation is a Buddhist practice, and their studies were done
 primarily at the Insight Meditation Society in Barre, Mass.
@@ -2615,10 +2615,10 @@ Stream-winner
 
 Stream-winner is the first level of enlightenment. I have never been
 satisfied by any of the descriptions of what changes occur as a result
-of attaining it I doubt that I ever will because it is sort of like
+of attaining it. I doubt that I ever will because it is sort of like
 describing shifts in shades of grey. Also there is a wide variation in
 changes from individual to individual as the result of attaining any
-level of enlightenment This makes clear definitive statements very
+level of enlightenment. This makes clear definitive statements very
 difficult.
 
 The Buddha most often talked about the number of incarnations people
@@ -2676,7 +2676,7 @@ involve subjective evaluations of the tester.
 
 The Buddha had a negative attitude toward the Hindu belief in *atta*.
 Westerners may believe in a soul, but it is a very fuzzy and poorly
-defined concept compared to the Hindu concept The Hindu concept is that
+defined concept compared to the Hindu concept. The Hindu concept is that
 the core of your consciousness is an unchanging, unalterable object
 which seems separated from the consciousness of God. The *atta* cannot
 be affected by fire or cold, cut by a knife, smashed by a rock, shocked
@@ -2694,7 +2694,7 @@ meditation the Buddha advocated. The Buddha was specifically against the
 idea that the ritual breaking of the father's skull on the funeral pyre
 by the eldest son would release the *atta* and the father would attain
 enlightenment, despite any sins. The Buddha likened this to expecting
-rocks in a day pot on the bottom of a pool of water, to float to the
+rocks in a clay pot on the bottom of a pool of water, to float to the
 surface if the pot were broken.
 
 Wave Theory vs Particle Theory
@@ -2712,7 +2712,7 @@ be measured at the same time. This advice would serve meditators well,
 in that they should never try to mix *atta* theories with Buddhist
 practices that emphasize viewing objects as being particles.
 
-I think it improves the Buddhist concept to understand the Hindu concept
+I think it improves the Buddhist concept to understand the Hindu concept.
 The analogy that I use comes from an experience that I had during my
 two-year retreat in Hawaii. My retreat camp was located at the
 three-thousand foot level on Mt. Haleakala, and I had a vast view of the
@@ -2823,7 +2823,7 @@ over again until you see the ultimate reality of phenomena. After seeing
 the briefest endurance of reality, the mindfulness shifts to Nirvana,
 which is the ultimate reality. Nirvana is an experience of the
 Unconditioned which defies any description. Any description of Nirvana
-is not a description of Nirvana,. and that is the most that can be said
+is not a description of Nirvana, and that is the most that can be said
 about Nirvana. There are no reference points in Nirvana on which to base
 a description.
 
@@ -2837,7 +2837,7 @@ characteristics. Then a masterful teacher will give students specific
 instructions to direct their practice in certain ways and evaluate their
 proficiency in doing these tasks. After this, the teacher may directly
 or indirectly let their students know they have attained the first level
-of enlightenment
+of enlightenment.
 
 The first experience of Nirvana is just a brief glimpse, but it is at
 this point that one has truly entered the stream of consciousness. It is
@@ -2859,7 +2859,7 @@ Once the final level of enlightenment is attained, Nirvana is never left
 and individual existence ceases. Mahayana Buddhists take the Bodhisattva
 Vow to delay their enlightenment until all sentient beings attain
 enlightenment. The purpose is to remain in existence to be of help to
-all other sentient beings in attaining enlightenment Mahayana Buddhists
+all other sentient beings in attaining enlightenment. Mahayana Buddhists
 have different interpretations of what this vow means, but many regard
 this as not entering *Parinirvana.*
 
@@ -2879,7 +2879,7 @@ teaching is in a context that you are comfortable with.
 Although a more enlightened teacher is generally a better teacher, it is
 possible that a Western Stream-winner who thinks and speaks in your
 language might be a better teacher for you than an Arahant who does not.
-However, you, would be well advised to make the effort to transcend the
+However, you would be well advised to make the effort to transcend the
 difficulties of culture and translation, and take advantage of working
 with an Arahant if you have the opportunity.
 
@@ -3417,7 +3417,7 @@ psychological benefit from this, it is a poor trade for the benefits of
 true meditation practice. Many people have chosen psychotherapy over
 enlightenment. Someone asked Anagarika Munindra, a great Buddhist
 meditation master in India, why it was easier for Asians to attain
-enlightenment His reply was that, "Westerners are doing psychotherapy."
+enlightenment. His reply was that, "Westerners are doing psychotherapy."
 
 Another variation on meditation instruction is to indulge in daydreams.
 After the mind becomes calm and concentrated from doing a little
@@ -3620,7 +3620,7 @@ effect on the practice.
 Despite these advantages some Westerners get enlightened quickly, and
 some Asians take a long time. Your situation is your situation, and
 there is no benefit in comparing yourself to anyone else. All you need
-to do is to follow the,instructions diligently and cultivate a profound
+to do is to follow the instructions diligently and cultivate a profound
 examination of the present moment.
 
 Sitting on the floor
@@ -3704,7 +3704,7 @@ Conclusion
 ~~~~~~~~~~
 
 The traditional belief is that the longer the time it has been since the
-time of the Buddha, the more difficult it is to attain enlightenment
+time of the Buddha, the more difficult it is to attain enlightenment.
 However, the recent revival of practice in Southeast Asia indicates that
 the operant factors are qualified, enlightened teachers, a safe secluded
 environment to practice and following instructions exactly. Being overly
@@ -3721,7 +3721,7 @@ Enlightenment has always been an embarrassing subject for Buddhism.
 Enlightenment is embarrassing because it is the most important status in
 Buddhism, and it is difficult to determine if someone is enlightened. At
 one time or another, almost everyone in Buddhism will be embarrassed
-about enlightenment Some are embarrassed because they are not
+about enlightenment. Some are embarrassed because they are not
 enlightened, some because they are enlightened, and others are
 embarrassed because they do not know whether or not they are
 enlightened. A few reasons why people become embarrassed about
@@ -3768,7 +3768,7 @@ incarnations. Ordaining as a monk or a nun, even for a brief period, is
 said to assure attainment of enlightenment. Supporting monasteries,
 monks and nuns results in merit which brings enlightenment. Virtuous
 actions such as keeping the five precepts, supporting parents and
-meditation contribute to attainment of enlightenment Many Buddhists have
+meditation contribute to attainment of enlightenment. Many Buddhists have
 no expectation of attaining enlightenment in this lifetime, but
 diligently do things that contribute to future enlightenment.
 
@@ -3797,7 +3797,7 @@ Arbitrary models
 One of the things that can contribute to excessive doubt is failing to
 see that there are people who have been successful in becoming
 enlightened. There have been many successes, not only in the time of the
-Buddha and Asia, but in the present, here in the West Usually, people
+Buddha and Asia, but in the present, here in the West. Usually, people
 fail to see this because they cling to false models of enlightenment.
 
 Misunderstandings about what the enlightened can and cannot do, or
@@ -3890,7 +3890,7 @@ She very quickly was able to master and demonstrate all of them.
 Dipa Ma was following the instructions of her teacher to develop psychic
 powers, but she thought that it was not appropriate to make use of them.
 The manifestation of psychic powers can very easily take on the air of a
-circus performance, and the importance of enlightenment can get lost
+circus performance, and the importance of enlightenment can get lost.
 After mastering all of the powers, she renounced all of them except the
 power of *metta. Metta* is the development of a profound feeling of
 unconditional love. One of the reasons that Dipa Ma was such an
@@ -3940,7 +3940,7 @@ Higher levels of enlightenment
 
 I am not aware of any psychological tests that might support this, but
 the mind becomes more sensitive and changeable with each level of
-enlightenment It would seem that this is partly a result of being able
+enlightenment. It would seem that this is partly a result of being able
 to let go of a mind state more quickly. If you are able to let go of one
 mind state, then almost instantly another mind state will arise. If this
 ability is combined with the ability to consciously perceive processes
@@ -4013,7 +4013,7 @@ attain the first level of enlightenment and continue their practice can
 attain the second level of enlightenment. Some people who attain the
 first level of enlightenment are satisfied, and simply do not pursue
 their practice further. Some people who have not had advanced training
-will spontaneously develop *deep insight* to a\ :sup:`.` higher path.
+will spontaneously develop *deep insight* to a higher path.
 However, only a small percentage of people who attain the second level
 will attain the third level. There also seems to be a big drop between
 the number who get to the fourth level from the third. The best we can
@@ -4034,7 +4034,7 @@ expecting the enlightened to live up to arbitrary models, but I feel
 this subject needs some special attention. Meditation is
 psychotherapeutic, but not all neuroses will be eliminated until the
 final phase of enlightenment, and some characteristics of personality
-may become exaggerated by enlightenment
+may become exaggerated by enlightenment.
 
 One of the most appealing prospects to Westerners is that Buddhist
 meditation offers an effective and inexpensive form of psychotherapy.
@@ -4138,7 +4138,7 @@ engage in sexual misconduct; 5) Not to take substances which dull the
 consciousness.
 
 I have mentioned before that the Southeast Asian mind seems to think in
-terms of generalities\ :sup:`-`, and does not seem to think in terms of
+terms of generalities, and does not seem to think in terms of
 percentages or probabilities. Classical scholars give no wiggle room in
 terms of adherence to precepts. They say that a stream-winner would not
 take even a small sip of alcohol. One prominent scholar said that if a
@@ -4184,7 +4184,7 @@ also believed that this decline will continue in the future when things
 will get worse until eventually a new Golden Age will come.
 
 Traditional Asian scholars will give the highest authority to the oldest
-books. As it was in the West during the middle ages, a statement in, an
+books. As it was in the West during the middle ages, a statement in an
 ancient book is given higher authority than empirical observations. The
 scientific method is now entering Asian culture, but it has not yet
 affected traditional scholarship. Statements in the Buddhist
@@ -4216,13 +4216,11 @@ incorrect information. One Arahant instructed his followers to build a
 huge pagoda in California which was far beyond their financial
 resources. Another Arahant said that the reason there were commercials
 in the middle of movies on TV was that people were unable to concentrate
-so long without a break To me, it is more important that Arahants are
+so long without a break. To me, it is more important that Arahants are
 able to change their minds when presented with correct information, than
 that they believe erroneous facts. It seems reasonable to me that if an
 Arahant can make a mistake because of incorrect information, then a
 Buddha could too. This is contrary to traditional Buddhist belief.
-
-****
 
 The Scientific method and Buddhism
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -4265,7 +4263,7 @@ because they are status conscious achievers.
 
 Even in the time of the Buddha, there were great variations in the
 amount of time that it took people to attain enlightenment The
-charioteer who took the Buddha­to-be on his first trips into the world,
+charioteer who took the Buddha-to-be on his first trips into the world,
 later became one of the Buddha's monks. However, he did not attain even
 the first level of enlightenment until after the Buddha died. The Buddha
 taught for 45 years, and the charioteer had the Buddha for a teacher.
@@ -4376,7 +4374,7 @@ appropriate to compare yourself to others. Some people are going to be
 fast, and other people are going to be slow. You are going to be
 whatever you are going to be, and it is not a race. Enlightenment is a
 noncompetitive activity, and it is possible for everyone to win. One of
-my favorite quotes from Munindra is, The Buddha's enlightenment solved
+my favorite quotes from Munindra is, "The Buddha's enlightenment solved
 his problem. You must solve your problem." How long it takes someone
 else has no relevance to how long it will take you.
 
@@ -4395,12 +4393,12 @@ The calm and concentrated mind
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 However, there is value in understanding the common experience of
-mistaking experiences in the practice for enlightenment One of these
+mistaking experiences in the practice for enlightenment. One of these
 experiences is when a meditator first experiences a very calm
 concentrated mind. It is said that the first three insights a meditator
 has are: 1) The mind is in a state of turmoil; 2) It seems impossible to
 stop or control this turmoil; 3) It has always been this way and we did
-not know it After these insights have been experienced, it is possible
+not know it. After these insights have been experienced, it is possible
 that deep concentration can develop. The mind becomes very clear,
 powerful and objects can be seen vividly. You can look at a tree and see
 it as you never have before. Instead of seeing the tree through a fog of
@@ -4467,7 +4465,7 @@ are lights and visions which reflect and symbolize these insights.
 Suddenly, there is a deep experiential comprehension of what before had
 been just philosophical understandings of the *dharma.* The change is
 so profoundly different and wonderful, that many think, "This certainly
-must be enlightenment"
+must be enlightenment."
 
 Although many suspect that they have experienced enlightenment at this
 point, there are also reasons to suspect that this is not enlightenment.
@@ -4526,12 +4524,12 @@ They do not know
 I have discussed the confusion which may arise as to whether or not
 enlightenment has been attained as certain experiences in the practice
 occur. Some people will decide that they are enlightened when they are
-not, Others will not be able to decide whether or not they are
+not. Others will not be able to decide whether or not they are
 enlightened. This inability to decide can sometimes continue even after
 enlightenment has been attained.
 
 Usually this occurs in situations where teachers do not want to openly
-discuss with their students their level of attainment, The primary
+discuss with their students their level of attainment. The primary
 reason for this is the general trend to regard enlightenment as a
 personal and private matter even between student and teacher. Some
 teachers may not be absolutely sure of exactly what level of attainment
@@ -4554,7 +4552,7 @@ In the Mahasi Sayadaw tradition, when teachers feel that their students
 may have attained enlightenment, they are given a tape recording of
 other students to listen to. The tape recording is of other students
 describing their experience of the progress of insights leading up to
-enlightenment The students listening to the tape are told to compare
+enlightenment. The students listening to the tape are told to compare
 their experiences to the experiences described and decide for themselves
 if they are enlightened. Being told to listen to the tape is regarded as
 an opinion of the teacher that they are enlightened, which is probably
@@ -4606,7 +4604,7 @@ unexplainable. Most people who become enlightened have a paradoxical
 feeling that everything is fundamentally the same while at the same time
 they have a feeling that everything is different. They have a great deal
 of difficulty describing what the difference is before and after
-enlightenment Actually, one of the differences is that some processes
+enlightenment. Actually, one of the differences is that some processes
 which were unconscious are now conscious. This is hard to describe
 because all the conscious processes seem to be normal conscious
 processes.
@@ -4656,7 +4654,7 @@ because they expect that someone who has done many years of practice
 must be either enlightened or very enlightened. The opposite situation
 can be true if they assume someone is not enlightened because they have
 done very little meditation practice. As I indicated before, there is a
-wide variation on how rapidly 'people progress in the practice. The
+wide variation on how rapidly people progress in the practice. The
 Buddha suggested that we could look for the results of being an Arahant
 or a Non-returner when someone has done between seven days and seven
 years of practice. In the time of the Buddha, there were cases of people
@@ -4761,7 +4759,7 @@ Tungpulu Sayadaw was an unusual Theravadan because he announced that he
 had taken The Bodhisattva Vow. This was after he was famous and had
 established many monasteries. Many traditional Theravadans concluded
 that he could not have attained even Stream-winner because a Bodhisattva
-supposedly vows to delay enlightenment This was paradoxical because he
+supposedly vows to delay enlightenment. This was paradoxical because he
 was such an extraordinary teacher and had many enlightened students. It
 is unlikely that an unenlightened teacher would have enlightened
 students.
@@ -4878,7 +4876,7 @@ Glossary
 ========
 
 Anagami
-   One who has attained the third level of enlightenment The
+   One who has attained the third level of enlightenment. The
    classic definition of an *Anagami* is that he or she has eliminated
    the mental defilements of lust and aversion, but still retains the five
    defilements of mind: 1) craving for subtle material realms, 2) craving
