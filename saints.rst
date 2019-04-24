@@ -2117,7 +2117,7 @@ phenomenon used by saints and gurus, the ability to give *shaktipat*
 should not be regarded as proof of anything. The experience of
 *shaktipat* is similar to experiences that dubious Christian faith
 healers are able to give some people. There have been some studies with
-KriIlan photography which indicates that there is some kind of
+Kirlian photography which indicates that there is some kind of
 transferal of energy from a healer to recipient, but there is no
 explanation of what this energy is. Certainly we would not declare that
 the electric eel is a divine fish because it is able to transmit a
