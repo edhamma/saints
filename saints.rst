@@ -908,7 +908,7 @@ time.
 |                                                       |                                                             |
 | Truth is highest standard                             | No true regard for truth                                    |
 |                                                       |                                                             |
-| Insists dose associates tell the truth                | Tell close associates to lie                                |
+| Insists close associates tell the truth               | Tell close associates to lie                                |
 |                                                       |                                                             |
 | Un-aggressive philosophy                              | Push philosophy aggressively                                |
 |                                                       |                                                             |
@@ -2001,7 +2001,7 @@ money and $150,000 in bills that I could not pay. Meditation is
 difficult enough without a situation like that.
 
 My mind was in turmoil for the first ten days of the retreat, but since
-I had done everything I could, I felt morally dean, and that allowed me
+I had done everything I could, I felt morally clean, and that allowed me
 to break through the confusion and settle into a good retreat
 experience.
 
