@@ -3145,7 +3145,7 @@ Buddhism is not only encountering another culture in the West, but
 unique in history, Buddhism is encountering Buddhism. Historically,
 Buddhism has been very provincial in its view. Each village in Asia
 considers the teachings in its area to be the one true teaching of the
-Buddha's *dhama.* They see all others as more or less in error. The
+Buddha's *dharma.* They see all others as more or less in error. The
 Burmese think they have a better and purer Buddhism than Thailand. Thais
 and Burmese look down on Sri Lankans as having a degenerated Buddhism.
 However, all the Southeast Asians agree that the Mahayana Buddhists are
