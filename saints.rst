@@ -1938,7 +1938,7 @@ claim to them. I was amazed at how frequently she would say this.
 I had been vaguely aware that Mukti would pick up some merchandise from
 stores and be in too much of a hurry to pay. Occasionally I would say
 something to her about it and she would invariably reply, "God told me
-to take it. What appalled me was not only how frequently she said "I
+to take it." What appalled me was not only how frequently she said "I
 stole that," but that some items were from homes where we had stayed as
 house guests. That was a sobering insight into how the mind of a
 co-psychopath can rationalize and not see things that should have been
