@@ -114,7 +114,7 @@ The practices were primarily those of Raja Yoga—a combination of
 traditional Hindu practices such as study, reflection, breathing
 exercises, hatha yoga, morality and meditation, which could result in a
 profound transformation. I was quite impressed with the results I was
-getting from these methods, and it seemed that I was on the right track
+getting from these methods, and it seemed that I was on the right track.
 As the community of the Orphalese Foundation was disintegrating, I was
 becoming more involved with Ram Dass and Raja Yoga.
 
@@ -1938,7 +1938,7 @@ claim to them. I was amazed at how frequently she would say this.
 I had been vaguely aware that Mukti would pick up some merchandise from
 stores and be in too much of a hurry to pay. Occasionally I would say
 something to her about it and she would invariably reply, "God told me
-to take it. What appalled me was not only how frequently she said "I
+to take it." What appalled me was not only how frequently she said "I
 stole that," but that some items were from homes where we had stayed as
 house guests. That was a sobering insight into how the mind of a
 co-psychopath can rationalize and not see things that should have been
@@ -1981,7 +1981,7 @@ can do." That saying has come to mind often since we went our separate
 ways.
 
 Fortunately, I did not have to pay for any of the charges on the stolen
-credit card because I never actually received it The charges on the
+credit card because I never actually received it. The charges on the
 American Express card were only a civil matter involving a bad debt, but
 the use of a stolen card constitutes theft, a felony. Meanwhile,
 American Express would not issue me a new card, and that blew my last
@@ -3145,7 +3145,7 @@ Buddhism is not only encountering another culture in the West, but
 unique in history, Buddhism is encountering Buddhism. Historically,
 Buddhism has been very provincial in its view. Each village in Asia
 considers the teachings in its area to be the one true teaching of the
-Buddha's *dhama.* They see all others as more or less in error. The
+Buddha's *dharma.* They see all others as more or less in error. The
 Burmese think they have a better and purer Buddhism than Thailand. Thais
 and Burmese look down on Sri Lankans as having a degenerated Buddhism.
 However, all the Southeast Asians agree that the Mahayana Buddhists are
@@ -4147,7 +4147,7 @@ solids would separate and only clear water would be consumed.
 
 For years, I have had an opportunity to closely observe teachers and
 meditators whom I believe have attained at least the first level of
-enlightenment They are mostly laypeople and Westerners, which is a
+enlightenment. They are mostly laypeople and Westerners, which is a
 fundamentally different situation for monks and nuns who have a primary
 duty of following precepts as a commitment to continuous mindfulness. In
 my opinion, they have a very strong tendency to be highly moral and many
@@ -4687,7 +4687,7 @@ would be an open discussion of individuals' sex lives. A meditation
 retreat might have some similarities to a sex education class, but who
 is getting it and who is not would still likely be a private matter. If
 you had a problem or a question about your personal sex life, you might
-talk about it with a teacher or friend. If you have friends whop you
+talk about it with a teacher or friend. If you have friends whom you
 feel have had similar experiences, you might go into great detail about
 your personal experiences.
 
