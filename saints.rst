@@ -4687,7 +4687,7 @@ would be an open discussion of individuals' sex lives. A meditation
 retreat might have some similarities to a sex education class, but who
 is getting it and who is not would still likely be a private matter. If
 you had a problem or a question about your personal sex life, you might
-talk about it with a teacher or friend. If you have friends whop you
+talk about it with a teacher or friend. If you have friends whom you
 feel have had similar experiences, you might go into great detail about
 your personal experiences.
 
