@@ -16,7 +16,7 @@ Front
    .. image:: _static/cover.jpg
       :width: 30%
 
-*If you have a true saint for a teacher, then you have a real possibility for spiritual attainments, including enlightenment. 🙗 If your teacher is a psychopath, then you may become a programmed puppet, and you risk being sexually or financially abused. 🙗 You also maylo se your job, family and possibly even your sanity. Eventually you risk disillusionment from pursuing any spiritual quests. 🙗*
+*If you have a true saint for a teacher, then you have a real possibility for spiritual attainments, including enlightenment. If your teacher is a psychopath, then you may become a programmed puppet, and you risk being sexually or financially abused. You also may lose your job, family and possibly even your sanity. Eventually you risk disillusionment from pursuing any spiritual quests.*
 
 ----
 
@@ -69,7 +69,7 @@ Back cover
 
 There are more psychopaths pretending to be saints than there are real saints. This book will provide you with some understanding of what a psychopath is, what a saint is and how to tell the difference. It is also a sharing of what Mr. Hamilton found in his own search for inner peace and ways to develop his unrealized potential. He provides a candid view of his experiences with a psychopathic teacher and a psychopathic wife which richly illustrate the type of behavior we should all watch out for.
 
-This book is more than just a warning to watch out for false spiritual teachers. Mr. Hamilton draws on the experience of the Snowmass Contemplative Group which is a group of advanced contemplatives from many different religious traditions. They have developed an eclectic understanding of enlightenment from all religious traditions. Mr Hamilton extends and refines this view with his knowledge of Buddhist teaching which he believes provides the most detailed understanding of enlightenment. He cites scientific studies of enlightenment which take it beyond the realm of mystical experi-ence, and develops it into a Western psychological concept.
+This book is more than just a warning to watch out for false spiritual teachers. Mr. Hamilton draws on the experience of the Snowmass Contemplative Group which is a group of advanced contemplatives from many different religious traditions. They have developed an eclectic understanding of enlightenment from all religious traditions. Mr Hamilton extends and refines this view with his knowledge of Buddhist teaching which he believes provides the most detailed understanding of enlightenment. He cites scientific studies of enlightenment which take it beyond the realm of mystical experience, and develops it into a Western psychological concept.
 
 *Saints and Psychopaths* provides us with an inspiration as to the possibility we all have for spiritual development and self discovery. It is a highly recommended guide book for all spiritual seekers.
 
