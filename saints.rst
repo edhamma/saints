@@ -2198,7 +2198,7 @@ reality. One of the lessons I learned as I extricated myself from my
 co-psychopath role was that she had told me countless lies which I had
 been unable to detect, for even though I knew she would lie to other
 people, I thought I was exempt. It wasn't until after she failed to
-return from India that I became aware that she had told me any lies.
+return from India that I became aware that she had told me many lies.
 
 Part II: Saints
 ===============
@@ -2632,7 +2632,7 @@ Buddha not only believed in reincarnation, but they were concerned about
 having to endure an almost infinite number of lifetimes.
 
 The number of incarnations before attaining enlightenment is not a hot
-topic for most Westerners, but suffering is. Westerners want dearly
+topic for most Westerners, but suffering is. Westerners want clearly
 defined and quantified results or objectives. I could say that you would
 have less suffering, but I cannot say precisely how you would suffer
 less. I could say you would be happier, but I cannot say exactly how you
@@ -2804,7 +2804,7 @@ You look at it closer and find that it is not only moving, but that it
 is not even a solid line. It is actually composed of moving clumps. You
 examine the clumps closely and discover that the clumps are composed of
 even smaller clumps. You look at these clumps and find that these clumps
-are actually composed of even smaller dumps. You come close to the wall
+are actually composed of even smaller clumps. You come close to the wall
 and find that the smaller clumps are made up of even smaller clumps. You
 come right up to the wall and examine it very closely and discover that
 the smallest clumps are actually groups of ants moving together.
