@@ -9,6 +9,7 @@ jobs:
       - name: Build E-Books 🔧
         run: |
           pip install sphinx
+          make html
           make singlehtml
           make epub
           cp gh-pages-index.html _build/index.html
