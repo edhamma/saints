@@ -11,9 +11,9 @@ jobs:
           pip install sphinx
           make singlehtml
           make epub
-          cp gh-pages-index.html build/index.html
+          cp gh-pages-index.html _build/index.html
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.5
         with:
           branch: gh-pages # The branch the action should deploy to.
-          folder: build # The folder the action should deploy.
+          folder: _build # The folder the action should deploy.
