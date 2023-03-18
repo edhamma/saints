@@ -10,7 +10,7 @@ The book is produced in several formats:
 * [HTML](https://eudoxos.github.io/saints/html/index.html)
 * [single HTML](https://eudoxos.github.io/saints/singlehtml/index.html)
 * [ePub](https://eudoxos.github.io/saints/epub/hamilton-saints-psychopaths.epub) (for e-book readers)
-* [PDF](https://eudoxos.github.io/saints/latex/SainsPsychopaths.pdf) (A5 pagesize)
+* [PDF](https://eudoxos.github.io/saints/latex/SaintsPsychopaths.pdf) (A5 pagesize)
 
 (other formats supported by [Sphinx](https://sphinx-doc.org) can be added trivially)
 
