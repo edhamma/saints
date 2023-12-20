@@ -86,7 +86,7 @@ html_theme = 'alabaster'
 # documentation.
 #
 html_theme_options = {
-    'github_user':'eudoxos',
+    'github_user':'edhamma',
     'github_repo':'saints',
     'github_banner':'true',
     # 'fixed_sidebar':'true',
@@ -136,7 +136,7 @@ latex_maketitle=r'''
                 Psychopaths}\\[4\baselineskip]
                 {\Large\emph{William B. Hamilton}}\par
                 \vfill % space{0.3\textheight}
-                Other formats (PDF, HTML, ePub, …) available from \href{https://github.com/eudoxos/saints}{github.com/eudoxos/saints}.
+                Other formats (PDF, HTML, ePub, …) available from \href{https://github.com/edhamma/saints}{github.com/edhamma/saints}.
                 \\[\baselineskip]
                 {\noindent This e-book is a community effort. If you spot an error in the text (such as misspelled word), go to the address above and report or (if you have the skill) fix it. Thanks!}
                 \\[\baselineskip]

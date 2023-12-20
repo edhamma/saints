@@ -10,7 +10,7 @@ William L. Hamilton: Saints & Psychopaths
 
    .. note::
 
-      Other formats (PDF, HTML, ePub) available from `github.com/eudoxos/saints <https://github.com/eudoxos/saints>`__.
+      Other formats (PDF, HTML, ePub) available from `github.com/edhamma/saints <https://github.com/edhamma/saints>`__.
 
       This e-book is a community effort. If you spot an error in the text (such as misspelled word) and have the skill, go to the address above and report or (if you have the skill) fix it. Thanks!
 
