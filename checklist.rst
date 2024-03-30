@@ -50,7 +50,7 @@ Allow for personality characteristics and cultural factors when evaluating respo
 +-------------------------------------------------------+-------------------------------------------------------------+
 | Truth is highest standard                             | No true regard for truth                                    |
 +-------------------------------------------------------+-------------------------------------------------------------+
-| Insists dose associates tell the truth                | Tell close associates to lie                                |
+| Insists close associates tell the truth               | Tell close associates to lie                                |
 +-------------------------------------------------------+-------------------------------------------------------------+
 | Un-aggressive philosophy                              | Push philosophy aggressively                                |
 +-------------------------------------------------------+-------------------------------------------------------------+
