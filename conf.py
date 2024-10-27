@@ -43,7 +43,6 @@ except subprocess.CalledProcessError:
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinxcontrib.fulltoc',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -79,19 +78,24 @@ pygments_style = None
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+html_theme = 'sphinx_book_theme'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-html_theme_options = {
-    'github_user':'edhamma',
-    'github_repo':'saints',
-    'github_banner':'true',
-    # 'fixed_sidebar':'true',
-    # 'sidebar_collapse':'true',
-}
+
+html_title=project
+html_theme_options = dict(
+  use_download_button=False,
+  use_source_button=False,
+  repository_provider='github',
+  repository_url='https://github.com/edhamma/saints',
+  use_edit_page_button=True,
+  use_repository_button=True,
+  use_issues_button=True,
+)
+
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
