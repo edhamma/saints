@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en"
+ unique-identifier="hamilton-saints-psychopaths"
+ prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf"
+        xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:language>en</dc:language>
+    <dc:title>Saints &amp; Psychopaths</dc:title>
+    <dc:description>unknown</dc:description>
+    <dc:creator>William L. Hamilton</dc:creator>
+    <dc:contributor>unknown</dc:contributor>
+    <dc:publisher>Dharma Audio Network Associates</dc:publisher>
+    <dc:rights>1995, William L. Hamilton</dc:rights>
+    <dc:identifier id="hamilton-saints-psychopaths">0-9644904-0-4</dc:identifier>
+    <dc:date>2024-10-27T20:19:32Z</dc:date>
+    <meta property="dcterms:modified">2024-10-27T20:19:32Z</meta>
+    <meta property="ibooks:version">0.1</meta>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="ibooks:binding">true</meta>
+    <meta property="ibooks:scroll-axis">vertical</meta>
+    <meta name="cover" content="epub-9"/>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="epub-0" href="checklist.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-1" href="covers.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-2" href="glossary.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-3" href="index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-4" href="preface.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-5" href="psychopaths.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-6" href="saints.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-7" href="_images/portrait.jpg" media-type="image/jpeg" />
+    <item id="epub-8" href="_static/basic.css" media-type="text/css" />
+    <item id="epub-9" href="_static/cover.jpg" media-type="image/jpeg" />
+    <item id="epub-10" href="_static/epub.css" media-type="text/css" />
+    <item id="epub-11" href="_static/file.png" media-type="image/png" />
+    <item id="epub-12" href="_static/minus.png" media-type="image/png" />
+    <item id="epub-13" href="_static/plus.png" media-type="image/png" />
+    <item id="epub-14" href="_static/portrait.jpg" media-type="image/jpeg" />
+    <item id="epub-15" href="_static/pygments.css" media-type="text/css" />
+    <item id="epub-16" href="epub-cover.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx" page-progression-direction="ltr">
+    <itemref idref="epub-16" />
+    <itemref idref="epub-3" />
+    <itemref idref="epub-1" />
+    <itemref idref="epub-4" />
+    <itemref idref="epub-5" />
+    <itemref idref="epub-6" />
+    <itemref idref="epub-2" />
+    <itemref idref="epub-0" />
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="epub-cover.xhtml" />
+    <reference type="toc" title="Table of Contents" href="index.xhtml" />
+  </guide>
+</package>

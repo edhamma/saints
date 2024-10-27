@@ -1,0 +1,1040 @@
+<?xml version="1.0"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="hamilton-saints-psychopaths"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Saints &amp; Psychopaths</text>
+  </docTitle>
+  <navMap>    
+    <navPoint id="navPoint1" playOrder="1">
+      <navLabel>
+        <text>William L. Hamilton: Saints &amp; Psychopaths</text>
+      </navLabel>
+      <content src="index.xhtml" />  
+    </navPoint>
+    <navPoint id="navPoint2" playOrder="2">
+      <navLabel>
+        <text>Covers</text>
+      </navLabel>
+      <content src="covers.xhtml" />  
+      <navPoint id="navPoint3" playOrder="2">
+        <navLabel>
+          <text>Covers</text>
+        </navLabel>
+        <content src="covers.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint4" playOrder="3">
+        <navLabel>
+          <text>Front</text>
+        </navLabel>
+        <content src="covers.xhtml#front" />  
+      </navPoint>
+      <navPoint id="navPoint5" playOrder="4">
+        <navLabel>
+          <text>Back cover</text>
+        </navLabel>
+        <content src="covers.xhtml#back-cover" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint6" playOrder="5">
+      <navLabel>
+        <text>Preface</text>
+      </navLabel>
+      <content src="preface.xhtml" />  
+      <navPoint id="navPoint7" playOrder="5">
+        <navLabel>
+          <text>Preface</text>
+        </navLabel>
+        <content src="preface.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint8" playOrder="6">
+        <navLabel>
+          <text>My spiritual journey</text>
+        </navLabel>
+        <content src="preface.xhtml#my-spiritual-journey" />  
+      </navPoint>
+      <navPoint id="navPoint9" playOrder="7">
+        <navLabel>
+          <text>Ram Dass</text>
+        </navLabel>
+        <content src="preface.xhtml#ram-dass" />  
+      </navPoint>
+      <navPoint id="navPoint10" playOrder="8">
+        <navLabel>
+          <text>Distributing audio tapes</text>
+        </navLabel>
+        <content src="preface.xhtml#distributing-audio-tapes" />  
+      </navPoint>
+      <navPoint id="navPoint11" playOrder="9">
+        <navLabel>
+          <text>Buddhist vipassana meditation</text>
+        </navLabel>
+        <content src="preface.xhtml#buddhist-vipassana-meditation" />  
+      </navPoint>
+      <navPoint id="navPoint12" playOrder="10">
+        <navLabel>
+          <text>Peace Pilgrim</text>
+        </navLabel>
+        <content src="preface.xhtml#peace-pilgrim" />  
+      </navPoint>
+      <navPoint id="navPoint13" playOrder="11">
+        <navLabel>
+          <text>Insight Recordings</text>
+        </navLabel>
+        <content src="preface.xhtml#insight-recordings" />  
+      </navPoint>
+      <navPoint id="navPoint14" playOrder="12">
+        <navLabel>
+          <text>My life is my message</text>
+        </navLabel>
+        <content src="preface.xhtml#my-life-is-my-message" />  
+      </navPoint>
+      <navPoint id="navPoint15" playOrder="13">
+        <navLabel>
+          <text>Enlightenment</text>
+        </navLabel>
+        <content src="preface.xhtml#enlightenment" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint16" playOrder="14">
+      <navLabel>
+        <text>Part I: Psychopaths</text>
+      </navLabel>
+      <content src="psychopaths.xhtml" />  
+      <navPoint id="navPoint17" playOrder="14">
+        <navLabel>
+          <text>Part I: Psychopaths</text>
+        </navLabel>
+        <content src="psychopaths.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint18" playOrder="15">
+        <navLabel>
+          <text>Psychopaths</text>
+        </navLabel>
+        <content src="psychopaths.xhtml#psychopaths" />  
+        <navPoint id="navPoint19" playOrder="15">
+          <navLabel>
+            <text>Psychopaths</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#psychopaths" />  
+        </navPoint>
+        <navPoint id="navPoint20" playOrder="16">
+          <navLabel>
+            <text>There are more psychopaths than saints</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#there-are-more-psychopaths-than-saints" />  
+        </navPoint>
+        <navPoint id="navPoint21" playOrder="17">
+          <navLabel>
+            <text>The origins of psychopathy</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#the-origins-of-psychopathy" />  
+        </navPoint>
+        <navPoint id="navPoint22" playOrder="18">
+          <navLabel>
+            <text>Distinguishing saints from psychopaths</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#distinguishing-saints-from-psychopaths" />  
+        </navPoint>
+        <navPoint id="navPoint23" playOrder="19">
+          <navLabel>
+            <text>Amoral or immoral?</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#amoral-or-immoral" />  
+        </navPoint>
+        <navPoint id="navPoint24" playOrder="20">
+          <navLabel>
+            <text>Seeds of destruction</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#seeds-of-destruction" />  
+        </navPoint>
+        <navPoint id="navPoint25" playOrder="21">
+          <navLabel>
+            <text>The Big Lie</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#the-big-lie" />  
+        </navPoint>
+        <navPoint id="navPoint26" playOrder="22">
+          <navLabel>
+            <text>Spiritual scenes</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#spiritual-scenes" />  
+        </navPoint>
+        <navPoint id="navPoint27" playOrder="23">
+          <navLabel>
+            <text>The chorus of psychopaths</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#the-chorus-of-psychopaths" />  
+        </navPoint>
+        <navPoint id="navPoint28" playOrder="24">
+          <navLabel>
+            <text>More claims than comets</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#more-claims-than-comets" />  
+        </navPoint>
+        <navPoint id="navPoint29" playOrder="25">
+          <navLabel>
+            <text>The pattern of avoiding punishment</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#the-pattern-of-avoiding-punishment" />  
+        </navPoint>
+        <navPoint id="navPoint30" playOrder="26">
+          <navLabel>
+            <text>Psychopaths are self-destructive</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#psychopaths-are-self-destructive" />  
+        </navPoint>
+        <navPoint id="navPoint31" playOrder="27">
+          <navLabel>
+            <text>Psychopaths crave attention</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#psychopaths-crave-attention" />  
+        </navPoint>
+        <navPoint id="navPoint32" playOrder="28">
+          <navLabel>
+            <text>Motivating with guilt</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#motivating-with-guilt" />  
+        </navPoint>
+        <navPoint id="navPoint33" playOrder="29">
+          <navLabel>
+            <text>Anxiety attacks</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#anxiety-attacks" />  
+        </navPoint>
+        <navPoint id="navPoint34" playOrder="30">
+          <navLabel>
+            <text>Organizations</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#organizations" />  
+        </navPoint>
+        <navPoint id="navPoint35" playOrder="31">
+          <navLabel>
+            <text>Buddhism</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#buddhism" />  
+        </navPoint>
+        <navPoint id="navPoint36" playOrder="32">
+          <navLabel>
+            <text>Co-psychopaths</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#co-psychopaths" />  
+        </navPoint>
+        <navPoint id="navPoint37" playOrder="33">
+          <navLabel>
+            <text>Helping a co-psychopath</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#helping-a-co-psychopath" />  
+        </navPoint>
+        <navPoint id="navPoint38" playOrder="34">
+          <navLabel>
+            <text>Purity of motives offers protection</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#purity-of-motives-offers-protection" />  
+        </navPoint>
+        <navPoint id="navPoint39" playOrder="35">
+          <navLabel>
+            <text>Psychopaths do not want to be cured</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#psychopaths-do-not-want-to-be-cured" />  
+        </navPoint>
+        <navPoint id="navPoint40" playOrder="36">
+          <navLabel>
+            <text>Conclusion</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#conclusion" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint41" playOrder="37">
+        <navLabel>
+          <text>Screw U</text>
+        </navLabel>
+        <content src="psychopaths.xhtml#screw-u" />  
+        <navPoint id="navPoint42" playOrder="37">
+          <navLabel>
+            <text>Screw U</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#screw-u" />  
+        </navPoint>
+        <navPoint id="navPoint43" playOrder="38">
+          <navLabel>
+            <text>The Hindu Tradition</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#the-hindu-tradition" />  
+        </navPoint>
+        <navPoint id="navPoint44" playOrder="39">
+          <navLabel>
+            <text>Buddhism and Hinduism</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#buddhism-and-hinduism" />  
+        </navPoint>
+        <navPoint id="navPoint45" playOrder="40">
+          <navLabel>
+            <text>The mysterious teacher</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#the-mysterious-teacher" />  
+        </navPoint>
+        <navPoint id="navPoint46" playOrder="41">
+          <navLabel>
+            <text>A call from the teacher</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#a-call-from-the-teacher" />  
+        </navPoint>
+        <navPoint id="navPoint47" playOrder="42">
+          <navLabel>
+            <text>From Boulder to New York</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#from-boulder-to-new-york" />  
+        </navPoint>
+        <navPoint id="navPoint48" playOrder="43">
+          <navLabel>
+            <text>Attending secret classes</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#attending-secret-classes" />  
+        </navPoint>
+        <navPoint id="navPoint49" playOrder="44">
+          <navLabel>
+            <text>The Divine Mother</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#the-divine-mother" />  
+        </navPoint>
+        <navPoint id="navPoint50" playOrder="45">
+          <navLabel>
+            <text>Ram Dass leaves The Teachings</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#ram-dass-leaves-the-teachings" />  
+        </navPoint>
+        <navPoint id="navPoint51" playOrder="46">
+          <navLabel>
+            <text>Ram Dass confesses</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#ram-dass-confesses" />  
+        </navPoint>
+        <navPoint id="navPoint52" playOrder="47">
+          <navLabel>
+            <text>The inner circle</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#the-inner-circle" />  
+        </navPoint>
+        <navPoint id="navPoint53" playOrder="48">
+          <navLabel>
+            <text>Special interpretations of reality</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#special-interpretations-of-reality" />  
+        </navPoint>
+        <navPoint id="navPoint54" playOrder="49">
+          <navLabel>
+            <text>Teachers should be guides</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#teachers-should-be-guides" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint55" playOrder="50">
+        <navLabel>
+          <text>Mukti</text>
+        </navLabel>
+        <content src="psychopaths.xhtml#mukti" />  
+        <navPoint id="navPoint56" playOrder="50">
+          <navLabel>
+            <text>Mukti</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#mukti" />  
+        </navPoint>
+        <navPoint id="navPoint57" playOrder="51">
+          <navLabel>
+            <text>Feeling spiritually desolate</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#feeling-spiritually-desolate" />  
+        </navPoint>
+        <navPoint id="navPoint58" playOrder="52">
+          <navLabel>
+            <text>The three-month retreat</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#the-three-month-retreat" />  
+        </navPoint>
+        <navPoint id="navPoint59" playOrder="53">
+          <navLabel>
+            <text>The clean slate</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#the-clean-slate" />  
+        </navPoint>
+        <navPoint id="navPoint60" playOrder="54">
+          <navLabel>
+            <text>Our trip around the world</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#our-trip-around-the-world" />  
+        </navPoint>
+        <navPoint id="navPoint61" playOrder="55">
+          <navLabel>
+            <text>Getting married</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#getting-married" />  
+        </navPoint>
+        <navPoint id="navPoint62" playOrder="56">
+          <navLabel>
+            <text>India</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#india" />  
+        </navPoint>
+        <navPoint id="navPoint63" playOrder="57">
+          <navLabel>
+            <text>Another clean slate</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#another-clean-slate" />  
+        </navPoint>
+        <navPoint id="navPoint64" playOrder="58">
+          <navLabel>
+            <text>The financial crisis</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#the-financial-crisis" />  
+        </navPoint>
+        <navPoint id="navPoint65" playOrder="59">
+          <navLabel>
+            <text>The other strategy</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#the-other-strategy" />  
+        </navPoint>
+        <navPoint id="navPoint66" playOrder="60">
+          <navLabel>
+            <text>Importing from India</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#importing-from-india" />  
+        </navPoint>
+        <navPoint id="navPoint67" playOrder="61">
+          <navLabel>
+            <text>Mukti stays in India</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#mukti-stays-in-india" />  
+        </navPoint>
+        <navPoint id="navPoint68" playOrder="62">
+          <navLabel>
+            <text>Reports from India</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#reports-from-india" />  
+        </navPoint>
+        <navPoint id="navPoint69" playOrder="63">
+          <navLabel>
+            <text>The American Express card</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#the-american-express-card" />  
+        </navPoint>
+        <navPoint id="navPoint70" playOrder="64">
+          <navLabel>
+            <text>$20,000 a month in India</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#a-month-in-india" />  
+        </navPoint>
+        <navPoint id="navPoint71" playOrder="65">
+          <navLabel>
+            <text>Back after fifteen months</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#back-after-fifteen-months" />  
+        </navPoint>
+        <navPoint id="navPoint72" playOrder="66">
+          <navLabel>
+            <text>“I stole that”</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#i-stole-that" />  
+        </navPoint>
+        <navPoint id="navPoint73" playOrder="67">
+          <navLabel>
+            <text>Another delayed insight</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#another-delayed-insight" />  
+        </navPoint>
+        <navPoint id="navPoint74" playOrder="68">
+          <navLabel>
+            <text>There are no limits to the evil that a liar can do</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#there-are-no-limits-to-the-evil-that-a-liar-can-do" />  
+        </navPoint>
+        <navPoint id="navPoint75" playOrder="69">
+          <navLabel>
+            <text>The divorce settlement</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#the-divorce-settlement" />  
+        </navPoint>
+        <navPoint id="navPoint76" playOrder="70">
+          <navLabel>
+            <text>Maybe there wasn’t a trust fund</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#maybe-there-wasn-t-a-trust-fund" />  
+        </navPoint>
+        <navPoint id="navPoint77" playOrder="71">
+          <navLabel>
+            <text>Cocaine Jane</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#cocaine-jane" />  
+        </navPoint>
+        <navPoint id="navPoint78" playOrder="72">
+          <navLabel>
+            <text>There are no limits….</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#there-are-no-limits" />  
+        </navPoint>
+        <navPoint id="navPoint79" playOrder="73">
+          <navLabel>
+            <text>Saint Mukti</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#saint-mukti" />  
+        </navPoint>
+        <navPoint id="navPoint80" playOrder="74">
+          <navLabel>
+            <text>Need for attention</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#need-for-attention" />  
+        </navPoint>
+        <navPoint id="navPoint81" playOrder="75">
+          <navLabel>
+            <text>Trust and distrust</text>
+          </navLabel>
+          <content src="psychopaths.xhtml#trust-and-distrust" />  
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint82" playOrder="76">
+      <navLabel>
+        <text>Part II: Saints</text>
+      </navLabel>
+      <content src="saints.xhtml" />  
+      <navPoint id="navPoint83" playOrder="76">
+        <navLabel>
+          <text>Part II: Saints</text>
+        </navLabel>
+        <content src="saints.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint84" playOrder="77">
+        <navLabel>
+          <text>Saints</text>
+        </navLabel>
+        <content src="saints.xhtml#saints" />  
+        <navPoint id="navPoint85" playOrder="77">
+          <navLabel>
+            <text>Saints</text>
+          </navLabel>
+          <content src="saints.xhtml#saints" />  
+        </navPoint>
+        <navPoint id="navPoint86" playOrder="78">
+          <navLabel>
+            <text>What is a saint?</text>
+          </navLabel>
+          <content src="saints.xhtml#what-is-a-saint" />  
+        </navPoint>
+        <navPoint id="navPoint87" playOrder="79">
+          <navLabel>
+            <text>The Snowmass Contemplative Group</text>
+          </navLabel>
+          <content src="saints.xhtml#the-snowmass-contemplative-group" />  
+        </navPoint>
+        <navPoint id="navPoint88" playOrder="80">
+          <navLabel>
+            <text>Contemplatives and enlightenment</text>
+          </navLabel>
+          <content src="saints.xhtml#contemplatives-and-enlightenment" />  
+        </navPoint>
+        <navPoint id="navPoint89" playOrder="81">
+          <navLabel>
+            <text>Perceptual thresholds</text>
+          </navLabel>
+          <content src="saints.xhtml#perceptual-thresholds" />  
+        </navPoint>
+        <navPoint id="navPoint90" playOrder="82">
+          <navLabel>
+            <text>The difficulty of describing enlightenment</text>
+          </navLabel>
+          <content src="saints.xhtml#the-difficulty-of-describing-enlightenment" />  
+        </navPoint>
+        <navPoint id="navPoint91" playOrder="83">
+          <navLabel>
+            <text>Mystical Experiences</text>
+          </navLabel>
+          <content src="saints.xhtml#mystical-experiences" />  
+        </navPoint>
+        <navPoint id="navPoint92" playOrder="84">
+          <navLabel>
+            <text>Moral paragons</text>
+          </navLabel>
+          <content src="saints.xhtml#moral-paragons" />  
+        </navPoint>
+        <navPoint id="navPoint93" playOrder="85">
+          <navLabel>
+            <text>Degrees of Enlightenment</text>
+          </navLabel>
+          <content src="saints.xhtml#degrees-of-enlightenment" />  
+        </navPoint>
+        <navPoint id="navPoint94" playOrder="86">
+          <navLabel>
+            <text>The stream of consciousness</text>
+          </navLabel>
+          <content src="saints.xhtml#the-stream-of-consciousness" />  
+        </navPoint>
+        <navPoint id="navPoint95" playOrder="87">
+          <navLabel>
+            <text>Stream-winner</text>
+          </navLabel>
+          <content src="saints.xhtml#stream-winner" />  
+        </navPoint>
+        <navPoint id="navPoint96" playOrder="88">
+          <navLabel>
+            <text>Belief in self</text>
+          </navLabel>
+          <content src="saints.xhtml#belief-in-self" />  
+        </navPoint>
+        <navPoint id="navPoint97" playOrder="89">
+          <navLabel>
+            <text>Wave Theory vs Particle Theory</text>
+          </navLabel>
+          <content src="saints.xhtml#wave-theory-vs-particle-theory" />  
+        </navPoint>
+        <navPoint id="navPoint98" playOrder="90">
+          <navLabel>
+            <text>Deep insight</text>
+          </navLabel>
+          <content src="saints.xhtml#deep-insight" />  
+        </navPoint>
+        <navPoint id="navPoint99" playOrder="91">
+          <navLabel>
+            <text>Nirvana</text>
+          </navLabel>
+          <content src="saints.xhtml#nirvana" />  
+        </navPoint>
+        <navPoint id="navPoint100" playOrder="92">
+          <navLabel>
+            <text>Parinirvana</text>
+          </navLabel>
+          <content src="saints.xhtml#parinirvana" />  
+        </navPoint>
+        <navPoint id="navPoint101" playOrder="93">
+          <navLabel>
+            <text>Finding a teacher</text>
+          </navLabel>
+          <content src="saints.xhtml#finding-a-teacher" />  
+        </navPoint>
+        <navPoint id="navPoint102" playOrder="94">
+          <navLabel>
+            <text>Practice in Asia</text>
+          </navLabel>
+          <content src="saints.xhtml#practice-in-asia" />  
+        </navPoint>
+        <navPoint id="navPoint103" playOrder="95">
+          <navLabel>
+            <text>The search</text>
+          </navLabel>
+          <content src="saints.xhtml#the-search" />  
+        </navPoint>
+        <navPoint id="navPoint104" playOrder="96">
+          <navLabel>
+            <text>Conclusion</text>
+          </navLabel>
+          <content src="saints.xhtml#conclusion" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint105" playOrder="97">
+        <navLabel>
+          <text>The Possibility of Enlightenment</text>
+        </navLabel>
+        <content src="saints.xhtml#the-possibility-of-enlightenment" />  
+        <navPoint id="navPoint106" playOrder="97">
+          <navLabel>
+            <text>The Possibility of Enlightenment</text>
+          </navLabel>
+          <content src="saints.xhtml#the-possibility-of-enlightenment" />  
+        </navPoint>
+        <navPoint id="navPoint107" playOrder="98">
+          <navLabel>
+            <text>Spiritual decline</text>
+          </navLabel>
+          <content src="saints.xhtml#spiritual-decline" />  
+        </navPoint>
+        <navPoint id="navPoint108" playOrder="99">
+          <navLabel>
+            <text>The revival of enlightenment</text>
+          </navLabel>
+          <content src="saints.xhtml#the-revival-of-enlightenment" />  
+        </navPoint>
+        <navPoint id="navPoint109" playOrder="100">
+          <navLabel>
+            <text>Mainstream-entry</text>
+          </navLabel>
+          <content src="saints.xhtml#mainstream-entry" />  
+        </navPoint>
+        <navPoint id="navPoint110" playOrder="101">
+          <navLabel>
+            <text>Buddhism encounters Buddhism</text>
+          </navLabel>
+          <content src="saints.xhtml#buddhism-encounters-buddhism" />  
+        </navPoint>
+        <navPoint id="navPoint111" playOrder="102">
+          <navLabel>
+            <text>The way Buddha taught</text>
+          </navLabel>
+          <content src="saints.xhtml#the-way-buddha-taught" />  
+        </navPoint>
+        <navPoint id="navPoint112" playOrder="103">
+          <navLabel>
+            <text>Formless practice</text>
+          </navLabel>
+          <content src="saints.xhtml#formless-practice" />  
+        </navPoint>
+        <navPoint id="navPoint113" playOrder="104">
+          <navLabel>
+            <text>Mahasatipatthana Sutta</text>
+          </navLabel>
+          <content src="saints.xhtml#mahasatipatthana-sutta" />  
+        </navPoint>
+        <navPoint id="navPoint114" playOrder="105">
+          <navLabel>
+            <text>The oral tradition</text>
+          </navLabel>
+          <content src="saints.xhtml#the-oral-tradition" />  
+        </navPoint>
+        <navPoint id="navPoint115" playOrder="106">
+          <navLabel>
+            <text>The wide variety of methods</text>
+          </navLabel>
+          <content src="saints.xhtml#the-wide-variety-of-methods" />  
+        </navPoint>
+        <navPoint id="navPoint116" playOrder="107">
+          <navLabel>
+            <text>The teacher is more important than the technique</text>
+          </navLabel>
+          <content src="saints.xhtml#the-teacher-is-more-important-than-the-technique" />  
+        </navPoint>
+        <navPoint id="navPoint117" playOrder="108">
+          <navLabel>
+            <text>The decline of the Buddha’s teaching</text>
+          </navLabel>
+          <content src="saints.xhtml#the-decline-of-the-buddha-s-teaching" />  
+        </navPoint>
+        <navPoint id="navPoint118" playOrder="109">
+          <navLabel>
+            <text>Transmission of the dharma</text>
+          </navLabel>
+          <content src="saints.xhtml#transmission-of-the-dharma" />  
+        </navPoint>
+        <navPoint id="navPoint119" playOrder="110">
+          <navLabel>
+            <text>Follow instructions exactly</text>
+          </navLabel>
+          <content src="saints.xhtml#follow-instructions-exactly" />  
+        </navPoint>
+        <navPoint id="navPoint120" playOrder="111">
+          <navLabel>
+            <text>How Long to Enlightenment?</text>
+          </navLabel>
+          <content src="saints.xhtml#how-long-to-enlightenment" />  
+        </navPoint>
+        <navPoint id="navPoint121" playOrder="112">
+          <navLabel>
+            <text>Some misconceptions about the possibility of enlightenment</text>
+          </navLabel>
+          <content src="saints.xhtml#some-misconceptions-about-the-possibility-of-enlightenment" />  
+        </navPoint>
+        <navPoint id="navPoint122" playOrder="113">
+          <navLabel>
+            <text>Grace</text>
+          </navLabel>
+          <content src="saints.xhtml#grace" />  
+        </navPoint>
+        <navPoint id="navPoint123" playOrder="114">
+          <navLabel>
+            <text>Past lives</text>
+          </navLabel>
+          <content src="saints.xhtml#past-lives" />  
+        </navPoint>
+        <navPoint id="navPoint124" playOrder="115">
+          <navLabel>
+            <text>Avoid getting too complicated in moral reasoning</text>
+          </navLabel>
+          <content src="saints.xhtml#avoid-getting-too-complicated-in-moral-reasoning" />  
+        </navPoint>
+        <navPoint id="navPoint125" playOrder="116">
+          <navLabel>
+            <text>Diet</text>
+          </navLabel>
+          <content src="saints.xhtml#diet" />  
+        </navPoint>
+        <navPoint id="navPoint126" playOrder="117">
+          <navLabel>
+            <text>Celibacy</text>
+          </navLabel>
+          <content src="saints.xhtml#celibacy" />  
+        </navPoint>
+        <navPoint id="navPoint127" playOrder="118">
+          <navLabel>
+            <text>Asians and enlightenment</text>
+          </navLabel>
+          <content src="saints.xhtml#asians-and-enlightenment" />  
+        </navPoint>
+        <navPoint id="navPoint128" playOrder="119">
+          <navLabel>
+            <text>Sitting on the floor</text>
+          </navLabel>
+          <content src="saints.xhtml#sitting-on-the-floor" />  
+        </navPoint>
+        <navPoint id="navPoint129" playOrder="120">
+          <navLabel>
+            <text>Intelligence and enlightenment</text>
+          </navLabel>
+          <content src="saints.xhtml#intelligence-and-enlightenment" />  
+        </navPoint>
+        <navPoint id="navPoint130" playOrder="121">
+          <navLabel>
+            <text>Conclusion</text>
+          </navLabel>
+          <content src="saints.xhtml#id1" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint131" playOrder="122">
+        <navLabel>
+          <text>The Embarrassment of Enlightenment</text>
+        </navLabel>
+        <content src="saints.xhtml#the-embarrassment-of-enlightenment" />  
+        <navPoint id="navPoint132" playOrder="122">
+          <navLabel>
+            <text>The Embarrassment of Enlightenment</text>
+          </navLabel>
+          <content src="saints.xhtml#the-embarrassment-of-enlightenment" />  
+        </navPoint>
+        <navPoint id="navPoint133" playOrder="123">
+          <navLabel>
+            <text>They think they cannot become enlightened.</text>
+          </navLabel>
+          <content src="saints.xhtml#they-think-they-cannot-become-enlightened" />  
+        </navPoint>
+        <navPoint id="navPoint134" playOrder="124">
+          <navLabel>
+            <text>Arbitrary models</text>
+          </navLabel>
+          <content src="saints.xhtml#arbitrary-models" />  
+        </navPoint>
+        <navPoint id="navPoint135" playOrder="125">
+          <navLabel>
+            <text>Conforming to ideals</text>
+          </navLabel>
+          <content src="saints.xhtml#conforming-to-ideals" />  
+        </navPoint>
+        <navPoint id="navPoint136" playOrder="126">
+          <navLabel>
+            <text>Belief in self</text>
+          </navLabel>
+          <content src="saints.xhtml#id2" />  
+        </navPoint>
+        <navPoint id="navPoint137" playOrder="127">
+          <navLabel>
+            <text>Psychic powers</text>
+          </navLabel>
+          <content src="saints.xhtml#psychic-powers" />  
+        </navPoint>
+        <navPoint id="navPoint138" playOrder="128">
+          <navLabel>
+            <text>Higher levels of enlightenment</text>
+          </navLabel>
+          <content src="saints.xhtml#higher-levels-of-enlightenment" />  
+        </navPoint>
+        <navPoint id="navPoint139" playOrder="129">
+          <navLabel>
+            <text>Advanced Training</text>
+          </navLabel>
+          <content src="saints.xhtml#advanced-training" />  
+        </navPoint>
+        <navPoint id="navPoint140" playOrder="130">
+          <navLabel>
+            <text>The probability of attaining higher levels</text>
+          </navLabel>
+          <content src="saints.xhtml#the-probability-of-attaining-higher-levels" />  
+        </navPoint>
+        <navPoint id="navPoint141" playOrder="131">
+          <navLabel>
+            <text>Reasonable and rational?</text>
+          </navLabel>
+          <content src="saints.xhtml#reasonable-and-rational" />  
+        </navPoint>
+        <navPoint id="navPoint142" playOrder="132">
+          <navLabel>
+            <text>Being rational</text>
+          </navLabel>
+          <content src="saints.xhtml#being-rational" />  
+        </navPoint>
+        <navPoint id="navPoint143" playOrder="133">
+          <navLabel>
+            <text>Standards of the Theravada Commentaries</text>
+          </navLabel>
+          <content src="saints.xhtml#standards-of-the-theravada-commentaries" />  
+        </navPoint>
+        <navPoint id="navPoint144" playOrder="134">
+          <navLabel>
+            <text>Differences in Eastern and Western logic.</text>
+          </navLabel>
+          <content src="saints.xhtml#differences-in-eastern-and-western-logic" />  
+        </navPoint>
+        <navPoint id="navPoint145" playOrder="135">
+          <navLabel>
+            <text>Clear thinking and correct thinking</text>
+          </navLabel>
+          <content src="saints.xhtml#clear-thinking-and-correct-thinking" />  
+        </navPoint>
+        <navPoint id="navPoint146" playOrder="136">
+          <navLabel>
+            <text>The Scientific method and Buddhism</text>
+          </navLabel>
+          <content src="saints.xhtml#the-scientific-method-and-buddhism" />  
+        </navPoint>
+        <navPoint id="navPoint147" playOrder="137">
+          <navLabel>
+            <text>They want to be enlightened</text>
+          </navLabel>
+          <content src="saints.xhtml#they-want-to-be-enlightened" />  
+        </navPoint>
+        <navPoint id="navPoint148" playOrder="138">
+          <navLabel>
+            <text>Enlightened teachers</text>
+          </navLabel>
+          <content src="saints.xhtml#enlightened-teachers" />  
+        </navPoint>
+        <navPoint id="navPoint149" playOrder="139">
+          <navLabel>
+            <text>Enlightenment and attainment</text>
+          </navLabel>
+          <content src="saints.xhtml#enlightenment-and-attainment" />  
+        </navPoint>
+        <navPoint id="navPoint150" playOrder="140">
+          <navLabel>
+            <text>They think they are enlightened</text>
+          </navLabel>
+          <content src="saints.xhtml#they-think-they-are-enlightened" />  
+        </navPoint>
+        <navPoint id="navPoint151" playOrder="141">
+          <navLabel>
+            <text>The calm and concentrated mind</text>
+          </navLabel>
+          <content src="saints.xhtml#the-calm-and-concentrated-mind" />  
+        </navPoint>
+        <navPoint id="navPoint152" playOrder="142">
+          <navLabel>
+            <text>The Progress of Insight</text>
+          </navLabel>
+          <content src="saints.xhtml#the-progress-of-insight" />  
+        </navPoint>
+        <navPoint id="navPoint153" playOrder="143">
+          <navLabel>
+            <text>They do not know</text>
+          </navLabel>
+          <content src="saints.xhtml#they-do-not-know" />  
+        </navPoint>
+        <navPoint id="navPoint154" playOrder="144">
+          <navLabel>
+            <text>They do not want to say that they are enlightened</text>
+          </navLabel>
+          <content src="saints.xhtml#they-do-not-want-to-say-that-they-are-enlightened" />  
+        </navPoint>
+        <navPoint id="navPoint155" playOrder="145">
+          <navLabel>
+            <text>Living up to expectations</text>
+          </navLabel>
+          <content src="saints.xhtml#living-up-to-expectations" />  
+        </navPoint>
+        <navPoint id="navPoint156" playOrder="146">
+          <navLabel>
+            <text>Explaining the unexplainable</text>
+          </navLabel>
+          <content src="saints.xhtml#explaining-the-unexplainable" />  
+        </navPoint>
+        <navPoint id="navPoint157" playOrder="147">
+          <navLabel>
+            <text>Progress is measured by loss</text>
+          </navLabel>
+          <content src="saints.xhtml#progress-is-measured-by-loss" />  
+        </navPoint>
+        <navPoint id="navPoint158" playOrder="148">
+          <navLabel>
+            <text>Partly enlightened</text>
+          </navLabel>
+          <content src="saints.xhtml#partly-enlightened" />  
+        </navPoint>
+        <navPoint id="navPoint159" playOrder="149">
+          <navLabel>
+            <text>The amount of time they have meditated</text>
+          </navLabel>
+          <content src="saints.xhtml#the-amount-of-time-they-have-meditated" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint160" playOrder="150">
+        <navLabel>
+          <text>The Etiquette of Enlightenment</text>
+        </navLabel>
+        <content src="saints.xhtml#the-etiquette-of-enlightenment" />  
+        <navPoint id="navPoint161" playOrder="150">
+          <navLabel>
+            <text>The Etiquette of Enlightenment</text>
+          </navLabel>
+          <content src="saints.xhtml#the-etiquette-of-enlightenment" />  
+        </navPoint>
+        <navPoint id="navPoint162" playOrder="151">
+          <navLabel>
+            <text>Evolving etiquette</text>
+          </navLabel>
+          <content src="saints.xhtml#evolving-etiquette" />  
+        </navPoint>
+        <navPoint id="navPoint163" playOrder="152">
+          <navLabel>
+            <text>Silence</text>
+          </navLabel>
+          <content src="saints.xhtml#silence" />  
+        </navPoint>
+        <navPoint id="navPoint164" playOrder="153">
+          <navLabel>
+            <text>The Bodhisattva Vow</text>
+          </navLabel>
+          <content src="saints.xhtml#the-bodhisattva-vow" />  
+        </navPoint>
+        <navPoint id="navPoint165" playOrder="154">
+          <navLabel>
+            <text>Clues</text>
+          </navLabel>
+          <content src="saints.xhtml#clues" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint166" playOrder="155">
+        <navLabel>
+          <text>Conclusion</text>
+        </navLabel>
+        <content src="saints.xhtml#id3" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint167" playOrder="156">
+      <navLabel>
+        <text>Glossary</text>
+      </navLabel>
+      <content src="glossary.xhtml" />  
+    </navPoint>
+    <navPoint id="navPoint168" playOrder="157">
+      <navLabel>
+        <text>Checklist for Saints and Psychopaths</text>
+      </navLabel>
+      <content src="checklist.xhtml" />  
+      <navPoint id="navPoint169" playOrder="157">
+        <navLabel>
+          <text>Checklist for Saints and Psychopaths</text>
+        </navLabel>
+        <content src="checklist.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint170" playOrder="158">
+        <navLabel>
+          <text>Psychopaths</text>
+        </navLabel>
+        <content src="checklist.xhtml#psychopaths" />  
+      </navPoint>
+      <navPoint id="navPoint171" playOrder="159">
+        <navLabel>
+          <text>Saints</text>
+        </navLabel>
+        <content src="checklist.xhtml#saints" />  
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

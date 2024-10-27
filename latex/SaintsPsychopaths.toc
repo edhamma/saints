@@ -1,0 +1,159 @@
+\selectlanguage *{english}
+\contentsline {chapter}{Covers}{i}{chapter*.3}%
+\contentsline {section}{\numberline {1 }Front}{i}{section.0.1}%
+\contentsline {section}{\numberline {2 }Back cover}{iii}{section.0.2}%
+\contentsline {chapter}{Preface}{v}{chapter*.4}%
+\contentsline {section}{\numberline {1 }My spiritual journey}{v}{section.0.1}%
+\contentsline {section}{\numberline {2 }Ram Dass}{vii}{section.0.2}%
+\contentsline {section}{\numberline {3 }Distributing audio tapes}{viii}{section.0.3}%
+\contentsline {section}{\numberline {4 }Buddhist vipassana meditation}{viii}{section.0.4}%
+\contentsline {section}{\numberline {5 }Peace Pilgrim}{x}{section.0.5}%
+\contentsline {section}{\numberline {6 }Insight Recordings}{x}{section.0.6}%
+\contentsline {section}{\numberline {7 }My life is my message}{xi}{section.0.7}%
+\contentsline {section}{\numberline {8 }Enlightenment}{xii}{section.0.8}%
+\contentsline {part}{I\hspace {1em}Part I: Psychopaths}{1}{part.1}%
+\contentsline {chapter}{\numberline {1}Psychopaths}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}There are more psychopaths than saints}{4}{section.1.1}%
+\contentsline {section}{\numberline {1.2}The origins of psychopathy}{5}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Distinguishing saints from psychopaths}{6}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Amoral or immoral?}{7}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Seeds of destruction}{8}{section.1.5}%
+\contentsline {section}{\numberline {1.6}The Big Lie}{8}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Spiritual scenes}{8}{section.1.7}%
+\contentsline {section}{\numberline {1.8}The chorus of psychopaths}{9}{section.1.8}%
+\contentsline {section}{\numberline {1.9}More claims than comets}{9}{section.1.9}%
+\contentsline {section}{\numberline {1.10}The pattern of avoiding punishment}{9}{section.1.10}%
+\contentsline {section}{\numberline {1.11}Psychopaths are self\sphinxhyphen {}destructive}{11}{section.1.11}%
+\contentsline {section}{\numberline {1.12}Psychopaths crave attention}{11}{section.1.12}%
+\contentsline {section}{\numberline {1.13}Motivating with guilt}{12}{section.1.13}%
+\contentsline {section}{\numberline {1.14}Anxiety attacks}{12}{section.1.14}%
+\contentsline {section}{\numberline {1.15}Organizations}{12}{section.1.15}%
+\contentsline {section}{\numberline {1.16}Buddhism}{13}{section.1.16}%
+\contentsline {section}{\numberline {1.17}Co\sphinxhyphen {}psychopaths}{14}{section.1.17}%
+\contentsline {section}{\numberline {1.18}Helping a co\sphinxhyphen {}psychopath}{14}{section.1.18}%
+\contentsline {section}{\numberline {1.19}Purity of motives offers protection}{15}{section.1.19}%
+\contentsline {section}{\numberline {1.20}Psychopaths do not want to be cured}{15}{section.1.20}%
+\contentsline {section}{\numberline {1.21}Conclusion}{16}{section.1.21}%
+\contentsline {chapter}{\numberline {2}Screw U}{19}{chapter.2}%
+\contentsline {section}{\numberline {2.1}The Hindu Tradition}{20}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Buddhism and Hinduism}{20}{section.2.2}%
+\contentsline {section}{\numberline {2.3}The mysterious teacher}{21}{section.2.3}%
+\contentsline {section}{\numberline {2.4}A call from the teacher}{22}{section.2.4}%
+\contentsline {section}{\numberline {2.5}From Boulder to New York}{23}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Attending secret classes}{23}{section.2.6}%
+\contentsline {section}{\numberline {2.7}The Divine Mother}{24}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Ram Dass leaves The Teachings}{25}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Ram Dass confesses}{26}{section.2.9}%
+\contentsline {section}{\numberline {2.10}The inner circle}{28}{section.2.10}%
+\contentsline {section}{\numberline {2.11}Special interpretations of reality}{28}{section.2.11}%
+\contentsline {section}{\numberline {2.12}Teachers should be guides}{28}{section.2.12}%
+\contentsline {chapter}{\numberline {3}Mukti}{31}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Feeling spiritually desolate}{32}{section.3.1}%
+\contentsline {section}{\numberline {3.2}The three\sphinxhyphen {}month retreat}{34}{section.3.2}%
+\contentsline {section}{\numberline {3.3}The clean slate}{35}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Our trip around the world}{35}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Getting married}{36}{section.3.5}%
+\contentsline {section}{\numberline {3.6}India}{36}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Another clean slate}{37}{section.3.7}%
+\contentsline {section}{\numberline {3.8}The financial crisis}{38}{section.3.8}%
+\contentsline {section}{\numberline {3.9}The other strategy}{38}{section.3.9}%
+\contentsline {section}{\numberline {3.10}Importing from India}{39}{section.3.10}%
+\contentsline {section}{\numberline {3.11}Mukti stays in India}{40}{section.3.11}%
+\contentsline {section}{\numberline {3.12}Reports from India}{41}{section.3.12}%
+\contentsline {section}{\numberline {3.13}The American Express card}{41}{section.3.13}%
+\contentsline {section}{\numberline {3.14}\$20,000 a month in India}{42}{section.3.14}%
+\contentsline {section}{\numberline {3.15}Back after fifteen months}{43}{section.3.15}%
+\contentsline {section}{\numberline {3.16}“I stole that”}{44}{section.3.16}%
+\contentsline {section}{\numberline {3.17}Another delayed insight}{44}{section.3.17}%
+\contentsline {section}{\numberline {3.18}There are no limits to the evil that a liar can do}{44}{section.3.18}%
+\contentsline {section}{\numberline {3.19}The divorce settlement}{45}{section.3.19}%
+\contentsline {section}{\numberline {3.20}Maybe there wasn’t a trust fund}{46}{section.3.20}%
+\contentsline {section}{\numberline {3.21}Cocaine Jane}{46}{section.3.21}%
+\contentsline {section}{\numberline {3.22}There are no limits….}{47}{section.3.22}%
+\contentsline {section}{\numberline {3.23}Saint Mukti}{47}{section.3.23}%
+\contentsline {section}{\numberline {3.24}Need for attention}{49}{section.3.24}%
+\contentsline {section}{\numberline {3.25}Trust and distrust}{49}{section.3.25}%
+\contentsline {part}{II\hspace {1em}Part II: Saints}{51}{part.2}%
+\contentsline {chapter}{\numberline {4}Saints}{53}{chapter.4}%
+\contentsline {section}{\numberline {4.1}What is a saint?}{53}{section.4.1}%
+\contentsline {section}{\numberline {4.2}The Snowmass Contemplative Group}{54}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Contemplatives and enlightenment}{55}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Perceptual thresholds}{56}{section.4.4}%
+\contentsline {section}{\numberline {4.5}The difficulty of describing enlightenment}{57}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Mystical Experiences}{58}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Moral paragons}{59}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Degrees of Enlightenment}{60}{section.4.8}%
+\contentsline {section}{\numberline {4.9}The stream of consciousness}{61}{section.4.9}%
+\contentsline {section}{\numberline {4.10}Stream\sphinxhyphen {}winner}{63}{section.4.10}%
+\contentsline {section}{\numberline {4.11}Belief in self}{64}{section.4.11}%
+\contentsline {section}{\numberline {4.12}Wave Theory vs Particle Theory}{65}{section.4.12}%
+\contentsline {section}{\numberline {4.13}Deep insight}{66}{section.4.13}%
+\contentsline {section}{\numberline {4.14}Nirvana}{68}{section.4.14}%
+\contentsline {section}{\numberline {4.15}Parinirvana}{69}{section.4.15}%
+\contentsline {section}{\numberline {4.16}Finding a teacher}{69}{section.4.16}%
+\contentsline {section}{\numberline {4.17}Practice in Asia}{70}{section.4.17}%
+\contentsline {section}{\numberline {4.18}The search}{72}{section.4.18}%
+\contentsline {section}{\numberline {4.19}Conclusion}{72}{section.4.19}%
+\contentsline {chapter}{\numberline {5}The Possibility of Enlightenment}{73}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Spiritual decline}{74}{section.5.1}%
+\contentsline {section}{\numberline {5.2}The revival of enlightenment}{74}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Mainstream\sphinxhyphen {}entry}{75}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Buddhism encounters Buddhism}{76}{section.5.4}%
+\contentsline {section}{\numberline {5.5}The way Buddha taught}{77}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Formless practice}{78}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Mahasatipatthana Sutta}{78}{section.5.7}%
+\contentsline {section}{\numberline {5.8}The oral tradition}{79}{section.5.8}%
+\contentsline {section}{\numberline {5.9}The wide variety of methods}{79}{section.5.9}%
+\contentsline {section}{\numberline {5.10}The teacher is more important than the technique}{80}{section.5.10}%
+\contentsline {section}{\numberline {5.11}The decline of the Buddha’s teaching}{80}{section.5.11}%
+\contentsline {section}{\numberline {5.12}Transmission of the dharma}{81}{section.5.12}%
+\contentsline {section}{\numberline {5.13}Follow instructions exactly}{82}{section.5.13}%
+\contentsline {section}{\numberline {5.14}How Long to Enlightenment?}{83}{section.5.14}%
+\contentsline {section}{\numberline {5.15}Some misconceptions about the possibility of enlightenment}{84}{section.5.15}%
+\contentsline {section}{\numberline {5.16}Grace}{85}{section.5.16}%
+\contentsline {section}{\numberline {5.17}Past lives}{85}{section.5.17}%
+\contentsline {section}{\numberline {5.18}Avoid getting too complicated in moral reasoning}{85}{section.5.18}%
+\contentsline {section}{\numberline {5.19}Diet}{86}{section.5.19}%
+\contentsline {section}{\numberline {5.20}Celibacy}{86}{section.5.20}%
+\contentsline {section}{\numberline {5.21}Asians and enlightenment}{87}{section.5.21}%
+\contentsline {section}{\numberline {5.22}Sitting on the floor}{87}{section.5.22}%
+\contentsline {section}{\numberline {5.23}Intelligence and enlightenment}{88}{section.5.23}%
+\contentsline {section}{\numberline {5.24}Conclusion}{89}{section.5.24}%
+\contentsline {chapter}{\numberline {6}The Embarrassment of Enlightenment}{91}{chapter.6}%
+\contentsline {section}{\numberline {6.1}They think they cannot become enlightened.}{92}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Arbitrary models}{93}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Conforming to ideals}{94}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Belief in self}{95}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Psychic powers}{95}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Higher levels of enlightenment}{97}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Advanced Training}{97}{section.6.7}%
+\contentsline {section}{\numberline {6.8}The probability of attaining higher levels}{98}{section.6.8}%
+\contentsline {section}{\numberline {6.9}Reasonable and rational?}{99}{section.6.9}%
+\contentsline {section}{\numberline {6.10}Being rational}{101}{section.6.10}%
+\contentsline {section}{\numberline {6.11}Standards of the Theravada Commentaries}{101}{section.6.11}%
+\contentsline {section}{\numberline {6.12}Differences in Eastern and Western logic.}{102}{section.6.12}%
+\contentsline {section}{\numberline {6.13}Clear thinking and correct thinking}{103}{section.6.13}%
+\contentsline {section}{\numberline {6.14}The Scientific method and Buddhism}{103}{section.6.14}%
+\contentsline {section}{\numberline {6.15}They want to be enlightened}{104}{section.6.15}%
+\contentsline {section}{\numberline {6.16}Enlightened teachers}{105}{section.6.16}%
+\contentsline {section}{\numberline {6.17}Enlightenment and attainment}{105}{section.6.17}%
+\contentsline {section}{\numberline {6.18}They think they are enlightened}{107}{section.6.18}%
+\contentsline {section}{\numberline {6.19}The calm and concentrated mind}{107}{section.6.19}%
+\contentsline {section}{\numberline {6.20}The Progress of Insight}{108}{section.6.20}%
+\contentsline {section}{\numberline {6.21}They do not know}{110}{section.6.21}%
+\contentsline {section}{\numberline {6.22}They do not want to say that they are enlightened}{111}{section.6.22}%
+\contentsline {section}{\numberline {6.23}Living up to expectations}{111}{section.6.23}%
+\contentsline {section}{\numberline {6.24}Explaining the unexplainable}{112}{section.6.24}%
+\contentsline {section}{\numberline {6.25}Progress is measured by loss}{112}{section.6.25}%
+\contentsline {section}{\numberline {6.26}Partly enlightened}{113}{section.6.26}%
+\contentsline {section}{\numberline {6.27}The amount of time they have meditated}{113}{section.6.27}%
+\contentsline {chapter}{\numberline {7}The Etiquette of Enlightenment}{115}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Evolving etiquette}{116}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Silence}{116}{section.7.2}%
+\contentsline {section}{\numberline {7.3}The Bodhisattva Vow}{117}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Clues}{118}{section.7.4}%
+\contentsline {chapter}{\numberline {8}Conclusion}{121}{chapter.8}%
+\contentsline {chapter}{\numberline {A}Glossary}{123}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Checklist for Saints and Psychopaths}{133}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Psychopaths}{133}{section.B.1}%
+\contentsline {section}{\numberline {B.2}Saints}{134}{section.B.2}%
